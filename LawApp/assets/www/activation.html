@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>law</title>
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet"  href="css/jquery.mobile-1.4.2.min.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+<script src="js/jquery.js"></script>
+<script src="js/jquery.mobile-1.4.2.min.js"></script>
+<script src="js/script.js"></script>
+<script type="text/javascript">
+
+ document.addEventListener("deviceready", onDeviceReady, false);
+	function onDeviceReady() {
+	alert();
+		navigator.splashscreen.hide();
+        var element = document.getElementById('deviceProperties');
+        element.innerHTML = 'Device Name: '     + device.name     + '<br />' +
+                            'Device Cordova: '  + device.cordova  + '<br />' +
+                            'Device Platform: ' + device.platform + '<br />' +
+                            'Device UUID: '     + device.uuid     + '<br />' +
+                            'Device Model: '    + device.model    + '<br />' +
+                            'Device Version: '  + device.version  + '<br />';
+							
+		}
+
+var theme = 'data-theme="b"';
+</script>
+<style>
+.ui-icon-lawhome:after {
+	background-image: url("img/law_home.png");
+}
+/* Fallback */
+.ui-nosvg .ui-icon-lawhome:after {
+	background-image: url("img/law_home.png");
+}
+.ui-icon-homemode:after {
+	background-image: url("img/day-night.png");
+}
+
+/* Fallback */
+.ui-nosvg .ui-icon-homemode:after {
+	background-image: url("img/day-night.png");
+}
+
+
+
+    .highlight {
+    background-color: #FFFF88;
+    }
+
+
+</style>
+</head>
+
+<body class="background" onLoad="getMode()">
+<!--ACTIVATION PAGE--> 
+<div data-role="page" id="activationpg" class="jqm-demos jqm-home">
+  <div data-role="header" class="jqm-header" data-theme="b" data-position="fixed" >
+    <h2>Activation</h2>
+    </div>
+  <!-- /header -->
+  <div role="main" class="ui-content jqm-content">
+    <label for="basic">Enter Activation code</label>
+	<input type="text" name="activation_code" id="basic" value="" placeholder="Enter Activation Code" style="text-align:center;"  />
+    <input type="button" value="Activate Code" class="code_activation" /><br/><br/><br/>
+	<input type="text" name="" id="mobile" value="" placeholder="Enter Mobile Number" style="text-align:center;"   />
+		<input type="button" value="Get Activation Code" class="code_activate" />
+  </div>
+  <!-- /content -->
+<!--  <div data-role="" data-position="fixed">
+    <div data-role="navbar">
+	<input type="text" name="" id="mobile" value="" placeholder="Enter Mobile Number" style="text-align:center;"   />
+      <ul>
+        <li><a href="#" class="code_activate" data-icon="check">Get Activation Code</a></li>
+        </ul>
+    </div>-->
+    <!-- /navbar -->
+  </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+
+<script src="js/script.js"></script>
+<script type="text/javascript">
+
+<!--CHECK THE ACTIVAITON -->
+	//var activation = { activation_status : "0", activation_code : "" };
+activationCheck();
+
+function getMode()
+{
+var m=sessionStorage.getItem("MODE");
+ console.log(m);
+ if(m=="night")
+ {
+      console.log("Night");
+      //  $("a").removeClass("line");
+	//	$("a").addClass("lineday");
+		
+		$(".ui-page").removeClass("ui-page-theme-b");
+		$(".ui-page").addClass("ui-page-theme-a");
+ } else if(m=="day")
+ {
+        console.log("Day");
+        //$("a").removeClass("lineday");
+		//$("a").addClass("line");
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$(".ui-page").addClass("ui-page-theme-b");
+ }else
+ {
+        console.log("Day");
+       // $("a").removeClass("lineday");
+		//$("a").addClass("line");
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$(".ui-page").addClass("ui-page-theme-b");
+		sessionStorage.setItem("MODE","day");
+ }
+   
+}
+
+
+function changetheme(){
+		
+	if($("#homepg").hasClass("ui-page-theme-a"))
+	{
+		console.log("===>day");
+	    sessionStorage.setItem("MODE","day");
+		
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$(".ui-page").addClass("ui-page-theme-b");
+	}
+	else
+	{
+	console.log("===>night");
+	  sessionStorage.setItem("MODE","night");
+		
+
+		$(".ui-page").removeClass("ui-page-theme-b");
+		$(".ui-page").addClass("ui-page-theme-a");
+		
+	}
+		
+}
+	// ON LOAD SEARCH BY ALPHABET
+	$("#searchalphabet").on("pageshow" , function() {
+			getMode(); // FOR THEME 
+			var lw = lawBook.getdata();
+  			$.getJSON('js/json/act_index.json', function(jsondata) {
+			lawBook.setdata(jsondata);
+    		console.log(jsondata);	
+			listbyalphabet(jsondata);
+		});
+	});
+	
+	// ON LOAD SEARCH WORD
+     $("#searchadvance").on("pageshow" , function() {
+	 		getMode(); // FOR THEME 
+			var lw = lawBook.getdata();
+  			$.getJSON('js/json/act_index.json', function(jsondata) {
+			lawBook.setdata(jsondata);
+    	});
+	});
+	// ONLOAD SEARCH BY CAT
+	$("#searchcategory").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+		var lw = lawBook.getdata();
+  		$.getJSON('js/json/act_cat.json', function(ctjsondata) {
+			lawBook.setdata(ctjsondata);
+    		getCatInfo(ctjsondata);			
+		});
+		
+	});
+	
+	// SEARCH BY SECTION
+	$("#bysection").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata) {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    		listbySection(sjsondata);
+			console.log(getCurrentActionTItle());
+			//console.log("==>"+lw.actindex[lw.currentact_id].title);	 // FOR ACTION ID	
+			$("#bysection_actheading").html(getCurrentActionTItle());
+			
+		});
+	});
+	
+	
+	// SEARCH BY WORD
+	$("#sectionsearchbyword").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata) {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    			
+			
+		});
+	});
+	
+	
+	// SEARCH BY CHAPTER 
+	$("#bychapter").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(cjsondata) {
+			lw.action_info = cjsondata;
+			lawBook.setdata(lw);
+    		listbychapter();
+			//console.log("==>"+lw.actindex[lw.currentact_id].title);	 // FOR ACTION ID	
+			
+		});
+	});
+	
+	// ONLOAD SEARCH BY CAT
+	$("#actinfo").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		actinfobysection('pres');
+	});
+	
+		// ONLOAD SEARCH IN PAGE
+	$("#searchin").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata) {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    		$("#search_in_actheading").html(getCurrentActionTItle());
+			
+		});
+  		
+	});
+	
+	// ONCE PRESS THE SEARCH BY CATEGORY BUTTON 
+	$("#searchcategory").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+  		$.getJSON('js/json/act_index.json', function(jsondata) {
+		lawBook.setdata(jsondata);
+    	});
+	});
+	
+	
+	// CLEAR THE SEARCH BOX 
+	/*
+	$( "#search-act-byword" ).change(function() {
+		$("#search_message").html("");
+	});
+*/
+	$(".code_activate").click(function(){
+		val=$("#mobile").val();
+		//alert(val);
+		$.ajax({
+		url:"http://demo.techzar-web-developers.com/law/admin/webservice.php",
+		type:"POST",
+		data:{mob:val},
+		success:function(data)
+		{
+			alert(data);
+		}
+		});
+		
+	});
+
+		$(".code_activation").click(function(){
+		code=$("#basic").val();
+		$.ajax({
+		url:"http://demo.techzar-web-developers.com/law/admin/webservice.php",
+		type:"POST",
+		data:{code:code},
+		success:function(data)
+		{   
+		    selfw=self.window;
+			alert(data);
+			window.close();
+			window.location.href='index.html';
+			localStorage.setItem("Active","1");
+			
+		}
+		});
+	});
+</script>
+</body>
+</html>

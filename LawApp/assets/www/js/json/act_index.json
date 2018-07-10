@@ -1,0 +1,375 @@
+{
+"actindex": [
+            {
+                "id": "1",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Arms Act 1959"
+                
+            },
+            {
+                "id": "2",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Arms Rules 1962"
+                
+            },
+            {
+                "id": "3",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Cable Television Networks (Regulation) Act 1995"
+                
+            },
+            {
+                "id": "4",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Chennai City Police Act 1888"
+                
+            },
+			{
+                "id": "53",
+                "cat_id": "1",
+				"lay_id": "4",
+                "title": "Code of Criminal Procedure Act 1973"
+                
+            },
+			{
+                "id": "5",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Compulsory Censorship of Film Publicity Materials Act 1987"
+                
+            },
+			{
+                "id": "6",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Criminal Rule of Practice"
+                
+            },
+			{
+                "id": "100",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "District Police Act 1859"
+                
+            },
+			{
+                "id": "8",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Dowry Prohibition (Maintenance of Lists of Presents to the Bride And Bridegroom) Rules 1985"
+                
+            },
+			{
+                "id": "9",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Drugs and Cosmetics Act 1940"
+                
+            },
+			{
+                "id": "10",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Essential Commodities Act 1955"
+                
+            },
+		    {
+                "id": "50",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Exhibition of Films on Television Screen through Video Cassette Recorders and Cable Television"
+                
+            },		
+			{
+                "id": "11",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Explosive Substances Act 1908"
+                
+            },
+			{
+                "id": "12",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Explosives Act 1884"
+                
+            },
+			{
+                "id": "13",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Forest Act 1882"
+                
+            },
+			{
+                "id": "14",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Gaming Act 1930"
+                
+            },
+			{
+                "id": "15",
+                "cat_id": "1",
+				"lay_id": "4",
+                "title": "Indian Evidence Act 1872"
+                
+            },
+			{
+                "id": "16",
+                "cat_id": "1",
+				"lay_id": "4",
+                "title": "Indian Penal Code 1860"
+                
+            },
+			{
+                "id": "17",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Juvenile Justice (Care and Protection of Children) Rules 2001"
+                
+            },
+			{
+                "id": "18",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Juvenile Justice Care and Protection of Children Act 2000"
+                
+            },
+			{
+                "id": "19",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Mines and Minerals   (Developement and Regulation)Act 1957"
+                
+            },
+			{
+                "id": "20",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Motor Vehicles Act 1988"
+                
+            },
+			{
+                "id": "21",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Narcotic Drugs and Psychotropic Substances Act 1985"
+                
+            },
+			{
+                "id": "22",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Narcotic Drugs Rules 1985"
+                
+            },
+			{
+                "id": "23",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "National Security Act 1980"
+                
+            },
+			{
+                "id": "24",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Open Places (Prevention of Disfigurement) Act 1959"
+                
+            },
+			{
+                "id": "25",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Open Places (regulation of pasting of posters and fixing of thatty boards) Rules 1995"
+                
+            },
+			{
+                "id": "26",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Pre-Conception and Pre-Natal Diagnostic Techniques  (Prohibition of Sex Selection)Act 1994"
+                
+            },
+			{
+                "id": "27",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Prevention of Corruption Act 1988"
+                
+            },
+			{
+                "id": "52",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "13.Prevention of Dangerous Activities of Bootleggers Drug Offenders Goondas Immoral Traffic Offenders Forest Offenders Sand Offenders Slum-Grabbers and Video Pirates Act 1982"
+                
+            },
+			{
+                "id": "28",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act 1988"
+                
+            },
+			{
+                "id": "29",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Prevention of Insults to National Honour Act 1971"
+                
+            },
+			{
+                "id": "30",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prize Schemes (Prohibition) Act 1979"
+                
+            },
+			{
+                "id": "31",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Probation of Offenders Act 1958"
+                
+            },
+			{
+                "id": "32",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prohibition Act 1937"
+                
+            },
+			{
+                "id": "33",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prohibition of Charging Exorbitant Interest Act 2003"
+                
+            },
+			{
+                "id": "34",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Prohibition of Child Marriage Act 2006"
+                
+            },
+			{
+                "id": "35",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prohibition of Harassment of Woman Act 1998"
+                
+            },
+			{
+                "id": "36",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prohibition of Ragging Act 1997"
+                
+            },
+			{
+                "id": "37",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Prohibition of Ragging Rules 1999"
+                
+            },
+			{
+                "id": "38",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Property (Prevention of Damage and Loss) Act 1992"
+                
+            },
+			{
+                "id": "39",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Property (Prevention of Damage and Loss) Rules 1994"
+                
+            },
+			{
+                "id": "40",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Protection of Civil Rights Act 1955"
+                
+            },
+			{
+                "id": "51",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Protection of Interests of Depositors (in Financial Establishments) Act 1997"
+                
+            },	
+			{
+                "id": "41",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Protection of Interests of Depositors (in Financial Establishments) Rules 1997"
+                
+            },
+			{
+                "id": "42",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Protection Of Women From Domestic Violence Act 2005"
+                
+            },
+			{
+                "id": "43",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Public Gambling Act 1867"
+                
+            },
+			{
+                "id": "44",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Railway Property (Unlawful Possession) Act 1966"
+                
+            },
+			{
+                "id": "45",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act 1989"
+                
+            },
+			{
+                "id": "46",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Suppression of Immoral Traffic Rules"
+                
+            },
+			{
+                "id": "47",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Suppression of Immortal Traffic Act 1930"
+                
+            },
+			{
+                "id": "48",
+                "cat_id": "3",
+				"lay_id": "4",
+                "title": "Town Nuisance Act 1889"
+                
+            },
+			{
+                "id": "49",
+                "cat_id": "2",
+				"lay_id": "4",
+                "title": "Transplantation of Human Organs Act 1994"
+                
+            }
+			]
+}

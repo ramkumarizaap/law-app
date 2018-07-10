@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1.5, user-scalable=1">
+<title>law</title>
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet"  href="css/jquery.mobile-1.4.2.min.css">
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+<script src="js/jquery.js"></script>
+<script src="js/jquery.mobile-1.4.2.min.js"></script>
+<script src="js/jquery.highlight.js"></script>
+<script type="text/javascript">
+
+ document.addEventListener("deviceready", onDeviceReady, false);
+	function onDeviceReady() {
+		navigator.splashscreen.hide();
+
+       /* var element = document.getElementById('deviceProperties');
+        element.innerHTML = 'Device Name: '     + device.name     + '<br />' +
+                            'Device Cordova: '  + device.cordova  + '<br />' +
+                            'Device Platform: ' + device.platform + '<br />' +
+                            'Device UUID: '     + device.uuid     + '<br />' +
+                            'Device Model: '    + device.model    + '<br />' +
+                            'Device Version: '  + device.version  + '<br />';*/
+		}
+
+
+var theme = 'data-theme="b"';
+function getMode()
+{
+var m=sessionStorage.getItem("MODE");
+ console.log(m);
+ if(m=="night")
+ {
+      console.log("Night");
+      //  $("a").removeClass("line");
+	//	$("a").addClass("lineday");
+	//.ui-mobile, .ui-mobile body{  background:#999;}
+		
+		$(".ui-page").removeClass("ui-page-theme-b");
+		$(".ui-page").addClass("ui-page-theme-a");
+		$("#light_mode span.day_light").addClass("day_mode_light");
+		$("#light_mode span.night_light").removeClass("night_mode_light");
+		$(".ui-mobile").css('background-color', '#000000');
+		$(".ui-mobile body").css('background-color', '#000000');
+ } else if(m=="day")
+ {
+        console.log("Day");
+        //$("a").removeClass("lineday");
+		//$("a").addClass("line");
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$("#light_mode span.day_light").removeClass("day_mode_light");
+		$("#light_mode span.night_light").addClass("night_mode_light");
+		$(".ui-page").addClass("ui-page-theme-b");
+		$(".ui-mobile").css('background-color', '#252525');
+		$(".ui-mobile body").css('background-color', '#252525');
+ }else
+ {
+        console.log("Day");
+       // $("a").removeClass("lineday");
+		//$("a").addClass("line");
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$("#light_mode span.day_light").removeClass("day_mode_light");
+		$("#light_mode span.night_light").addClass("night_mode_light");
+		$(".ui-page").addClass("ui-page-theme-b");
+		$(".ui-mobile").css('background-color', '#252525');
+		$(".ui-mobile body").css('background-color', '#252525');
+		sessionStorage.setItem("MODE","day");
+ }
+   
+}
+function changetheme(){
+	if($("#homepg").hasClass("ui-page-theme-a"))
+	{
+		console.log("===>day");
+	    sessionStorage.setItem("MODE","day");
+		
+		$(".ui-page").removeClass("ui-page-theme-a");
+		$(".ui-page").addClass("ui-page-theme-b");
+		$("#light_mode span.day_light").removeClass("day_mode_light");
+		$("#light_mode span.night_light").addClass("night_mode_light");
+		$(".ui-mobile").css('background-color', '#252525');
+		$(".ui-mobile body").css('background-color', '#252525');
+	}
+	else
+	{
+	console.log("===>night");
+	  sessionStorage.setItem("MODE","night");
+		
+
+		$(".ui-page").removeClass("ui-page-theme-b");
+		$(".ui-page").addClass("ui-page-theme-a");
+		$("#light_mode span.day_light").addClass("day_mode_light");
+		$("#light_mode span.night_light").removeClass("night_mode_light");
+		$(".ui-mobile").css('background-color', '#000000');
+		$(".ui-mobile body").css('background-color', '#000000');
+		
+	}
+		
+}
+</script>
+<style>
+.ui-icon-lawhome:after {
+	background-image: url("img/law_home.png");
+}
+/* Fallback */
+.ui-nosvg .ui-icon-lawhome:after {
+	background-image: url("img/law_home.png");
+}
+.ui-icon-homemode:after {
+	background-image: url("img/day-night.png");
+}
+/* Fallback */
+.ui-nosvg .ui-icon-homemode:after {
+	background-image: url("img/day-night.png");
+}
+.highlight {
+	background-color: #FFFF88;
+}
+#mode_change
+{
+	border:0px solid red;
+	position:absolute;
+	width:100%;
+	bottom:0;
+}
+#light_mode
+{
+width:137px;
+margin:0 auto;
+height:20px;
+background:#000000;
+border-top:1px solid white;
+border-right:1px solid white;
+border-left:1px solid white;
+padding:10px;
+cursor:pointer;
+}
+#light_mode span.day_light
+{
+	border:0px solid red;
+	padding-top:5px;
+	color:#ffffff !important;
+	padding-bottom:5px;
+	text-align:center;
+}
+#light_mode span.night_light
+{
+	border:0px solid red;
+	padding-top:5px;
+	padding-bottom:5px;
+	color:#ffffff !important;
+	text-align:center;
+}
+#light_mode span.day_mode_light
+{
+	background:white !important;
+	color:#000000 !important;
+}
+#light_mode span.night_mode_light
+{
+	background:white !important;
+	color:#000000 !important;
+}
+</style>
+
+</head>
+<body class="background" onLoad="getMode()">
+<div data-role="page" id="homepg" class="ui-page-theme-b" >
+  <div data-role="header">
+    <h2>INDIAN LAW LIBRARY</h2>
+   <!-- <a href="#"  onClick="changetheme();" data-transition="slide" class="jqm-search-link ui-btn ui-btn-icon-notext ui-corner-all ui-icon-left  ui-nodisc-icon ui-alt-icon ui-btn-right ui-icon-homemode"></a>--> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <div class="ui-grid-solo"> <br>
+      <br>
+      <div class="ui-block-a"  id="loadsearchalphabet" ><a  href="#" class="ui-btn ui-btn-b ui-link" data-transition="none" onClick="redirectPage('#searchalphabet')" >Search By Alphabet</a></div>
+      <br>
+      <div class="ui-block-a"><a href="#searchcategory"  class="ui-btn ui-btn-b ui-link" data-transition="none" >Search By Category</a></div>
+      <br>
+      <!--<div class="ui-block-a"><a  href="#searchadvance"  class="ui-btn ui-btn-b ui-link"  data-transition="none" >Advanced Word Search </a></div>-->
+	  
+	 <!-- <p id="deviceProperties">Loading device properties...</p>-->
+	  
+    </div>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer" id="footer">
+  	
+   </div>
+   <div id="mode_change">
+   <div style=""  data-transition="slide" id="light_mode">
+			<span onClick="changetheme();"  class="day_light mode" data='day'>&nbsp;&nbsp;&nbsp;Day&nbsp;&nbsp;&nbsp;&nbsp;</span>
+			<span onClick="changetheme();"  class="night_light mode" data='light'>&nbsp;&nbsp;&nbsp;Night&nbsp;&nbsp;&nbsp;</span>
+		
+	</div>
+	</div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- /HOME page -->
+<div data-role="page" id="searchalphabet" data-theme="b" >
+  <div data-role="header"  >
+    <h2>By Alphabet</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <ul id="actbyalp_list" data-autodividers="true" data-role="listview" data-filter="true" data-filter-placeholder="Search Acts..." data-inset="true">
+    </ul>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- / SEARCH BY ALPHABET PAGE -->
+<div data-role="page" id="searchcategory" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Category</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <div class="ui-grid-solo">
+      <div id="cat_list">
+        <!--<br><div class="ui-block-a"  ><a  href="#"  class="ui-btn ui-link" data-transition="slide">Criminal Major Acts.</a></div>-->
+      </div>
+    </div>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- / SEARCHBY CATGEORY -->
+<div data-role="page" id="searchadvance" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Word </h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <label for="text-basic">Advance Search:</label>
+    <input name="text-basic" id="search-act-byword" value="" type="text" placeholder="Enter the Section Word">
+    <button class="ui-shadow ui-btn ui-corner-all" onClick="getActBysearchword();">Search</button>
+    <br>
+    <label for="text-basic" id="search_message"></label>
+  </div>
+  <ul id="actbysearcword_list" data-role="listview">
+  </ul>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- / SEARCH BY WORD -->
+<div data-role="page" id="searchin" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>Search In</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <p id="search_in_actheading"></p>
+    <div class="ui-grid-solo">
+      <div class="ui-block-a" ><a  href="#bysection" class="ui-btn ui-btn-b ui-link" data-transition="slide" >Search by Section</a></div>
+      <br>
+      <div class="ui-block-a"><a href="#sectionsearchbyword"  class="ui-btn ui-btn-b ui-link" data-transition="slide" >Search By Word</a></div>
+      <br>
+      <div class="ui-block-a"><a  href="#bychapter"  class="ui-btn ui-btn-b ui-link"  data-transition="slide" >Chapter / Part Index </a></div>
+    </div>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- /SEARCH BY ACT SECTION pagee -->
+<div data-role="page" id="bysection" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Section</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <p id="bysection_actheading"></p>
+    <ul id="actbysection_list" data-role="listview" data-filter="true" data-filter-placeholder="Enter the Section" data-inset="true">
+    </ul>
+	
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- /SEARCH BY ACT SECTION pagee -->
+<div data-role="page" id="actlistbycat" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Category</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <ul id="actbycategory_list" data-role="listview" data-filter="true" data-inset="true">
+    </ul>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- / CATEGORY BY ACT LISTING -->
+<div data-role="page" id="sectionsearchbyword" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Word </h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <label for="text-basic">Search Section by word:</label>
+    <input name="text-basic" id="search-section-byword" value="" type="text" placeholder="Enter the Section Word">
+    <button class="ui-shadow ui-btn ui-corner-all" onClick="getSectionBysearchword();">Search</button>
+    <br>
+    <label for="text-basic" id="sec_search_message"></label>
+  </div>
+  <ul id="section_searcword_list" data-role="listview">
+  </ul>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- / SEARCH BY WORD FOR INSIDE SEARCH -->
+<div data-role="page" id="bychapter" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>By Chapter</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <ul data-role="listview" data-inset="true" id="actchapter_list">
+    </ul>
+  </div>
+  <!-- /content -->
+  <div data-role="footer" data-tap-toggle="false" class="jqm-footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- BY chapter / index -->
+<div data-role="page" id="actinfobychapter" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>Result Chapter</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <div id="actlist_bychapter">
+      <p id="secpg_title"> Page title </p>
+      <p id="secpg_content">Page content</p>
+    </div>
+  </div>
+  <!-- /content -->
+  <div data-role="footer"> </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- Act info by chapter -->
+<div data-role="page" id="actinfo" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>Result Page</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <p id="sec_apg_title"> Page title </p>
+    <p id="sec_apg_content">Page content</p>
+  </div>
+  <!-- /content -->
+  <div data-role="footer">
+    <div data-role="navbar">
+      <ul>
+        <li><a href="#" onClick="actinfobysectionnew('prev');" data-icon="arrow-l">Previous</a></li>
+        <li><a href="#" onClick="actinfobysectionnew('next');" data-icon="arrow-r">Next</a></li>
+      </ul>
+    </div>
+    <!-- /navbar -->
+  </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!--SEARCH BY WORD RESULT PAGE-->
+<div data-role="page" id="searchresult" class="ui-page-theme-b" >
+  <div data-role="header"  >
+    <h2>Search Result</h2>
+    <a href="#homepg" class="jqm-navmenu-link ui-btn ui-btn-a ui-btn-icon-notext ui-btn-inline ui-corner-all ui-alt-icon ui-btn-left ui-icon-lawhome" data-transition="slide" data-direction="reverse">Home</a> <a href="#" data-rel="back" class="jqm-search-link ui-btn ui-btn-a ui-btn-icon-notext ui-corner-all ui-icon-arrow-l  ui-nodisc-icon ui-alt-icon ui-btn-right"></a> </div>
+  <!-- /header -->
+  <div role="main" class="ui-content">
+    <p id="search_sec_apg_title"> Page title </p>
+    <p id="search_sec_apg_content">Page content</p>
+  </div>
+  <!-- /content -->
+  
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<!-- Activation- -->
+<div data-role="page" id="activationpg" class="jqm-demos jqm-home">
+  <div data-role="header" class="jqm-header" data-theme="b" >
+    <h2>Activation</h2>
+    </div>
+  <!-- /header -->
+  <div role="main" class="ui-content jqm-content">
+    <label for="basic">Enter Activation code</label>
+	<input type="text" name="activation_code" id="activation_code" value=""  />
+    <input type="button" value="Activate" onClick="ValidateCode();" />
+    
+    <div id="ready_div" style="display:none" ><a href="#homepg" class="ui-btn ui-btn-b ui-link" data-transition="none" >Ready to start</a></div>
+    
+    <p id="sec_apg_content">write some content activation....</p>
+  </div>
+  <!-- /content -->
+  <div data-role="footer">
+    <div data-role="navbar">
+      <ul>
+        <li><a href="#" onClick="getActivationCode();" data-icon="check">Get Activation Code</a></li>
+        </ul>
+    </div>
+    <!-- /navbar -->
+  </div>
+  <!-- /footer -->
+  <!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
+</div>
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/aes.js"></script>
+<script src="js/script.js"></script>
+<script type="text/javascript">
+	app.initialize();
+
+<!--CHECK THE ACTIVAITON -->
+	
+	$("#activationpg").on('pageinit', function() {
+               var act_status = activationCheck();
+			  // alert(act_status);
+			  if(act_status != 0){
+			  redirectPage("#homepg");
+			  }
+			   
+            });
+	
+	//var activation = { activation_status : "0", activation_code : "" };	
+// ON LOAD THE  HOME PAGE 
+
+			$("#homepg").on('pageinit', function() {
+              // console.log("dad");
+			   var act_status = activationCheck();
+			  // alert(act_status);
+			  if(act_status == 0)
+			  redirectPage("#homepg");
+            });
+
+	// ON LOAD SEARCH BY ALPHABET
+	$("#searchalphabet").on("pageshow" , function() {
+			getMode(); // FOR THEME 
+			var lw = lawBook.getdata();
+  			$.getJSON('js/json/act_index.json', function(jsondata) {
+			lawBook.setdata(jsondata);
+    		console.log(jsondata);	
+			listbyalphabet(jsondata);
+		});
+	});
+	
+	// ON LOAD SEARCH WORD
+     $("#searchadvance").on("pageshow" , function() {
+	 		getMode(); // FOR THEME 
+			var lw = lawBook.getdata();
+  			$.getJSON('js/json/act_index.json', function(jsondata) {
+			lawBook.setdata(jsondata);
+    	});
+	});
+	// ONLOAD SEARCH BY CAT
+	$("#searchcategory").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+		var lw = lawBook.getdata();
+  		$.getJSON('js/json/act_cat.json', function(ctjsondata) {
+			lawBook.setdata(ctjsondata);
+    		getCatInfo(ctjsondata);			
+		});
+		
+	});
+	
+	// SEARCH BY SECTION
+	$("#bysection").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+	//	console.log("->ciic"+lw.currentact_id);
+				//alert(lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata)
+		 {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    		listbySection(sjsondata);
+			console.log(getCurrentActionTItle());
+			//console.log("==>"+lw.actindex[lw.currentact_id].title);	 // FOR ACTION ID	
+			$("#bysection_actheading").html(getCurrentActionTItle());
+			
+		});
+		
+		
+	});
+	
+	
+	// SEARCH BY WORD
+	$("#sectionsearchbyword").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata) {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    			
+			
+		});
+		//console.log("before-->"+JSON.stringify(lawBook.getdata()));
+		// LOAD THE FORM JSON FILE 
+		if(lw.currentact_id ==  53){
+			$.getJSON('js/json/act/act_'+lw.currentact_id+'_form.json', function(formjsondata) {
+				lw.action_info['formdata'] = formjsondata;
+				lawBook.setdata(lw);
+    			
+			
+			});
+		}
+		
+		//console.log("After-->"+JSON.stringify(lawBook.getdata()));
+		
+	});	
+	
+	// SEARCH BY CHAPTER 
+	$("#bychapter").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(cjsondata) {
+			lw.action_info = cjsondata;
+			lawBook.setdata(lw);
+    		listbychapter();
+			//console.log("==>"+lw.actindex[lw.currentact_id].title);	 // FOR ACTION ID	
+			
+		});
+	});
+	
+	// ONLOAD SEARCH BY CAT
+	$("#actinfo").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		//actinfobysection('pres','1');
+	});
+	
+	// ONLOAD SEARCH BY CAT
+	$("#searchresult").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		//actinfobysection('pres','0');
+	});
+	
+	
+		// ONLOAD SEARCH IN PAGE
+	$("#searchin").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+		var lw = lawBook.getdata();
+		console.log("->ciic"+lw.currentact_id);
+		$.getJSON('js/json/act/act_'+lw.currentact_id+'.json', function(sjsondata) {
+			lw.action_info = sjsondata;
+			lawBook.setdata(lw);
+    		$("#search_in_actheading").html(getCurrentActionTItle());
+			
+		});
+  		
+	});
+	
+	// ONCE PRESS THE SEARCH BY CATEGORY BUTTON 
+	$("#searchcategory").on("pageshow" , function() {
+		getMode(); // FOR THEME 
+  		var lw = lawBook.getdata();
+  		$.getJSON('js/json/act_index.json', function(jsondata) {
+		lawBook.setdata(jsondata);
+    	});
+	});
+	
+	/*	$(window).on("navigate",function(event,data){
+	var direction=data.state.direction;
+	alert(direction);
+	if(direction == 'back')
+	{
+		window.location.href='index.html';
+	}
+	else{
+	}
+	});*/
+	// CLEAR THE SEARCH BOX 
+	/*
+	$( "#search-act-byword" ).change(function() {
+		$("#search_message").html("");
+	});
+*/
+	
+</script>
+<style>
+.ui-listview li h2
+{
+	color:#0E7EEF !important;
+	font-size:18px !important;
+}
+.ui-listview li p
+{
+	font-size:14px !important;
+}
+.highlight
+{
+	color:#000000 !important;
+}
+.ui-page-theme-b span
+{
+	color:#7777E8 !important;
+}
+.ui-footer
+{
+	border:0px solid red !important;
+	position:absolute;
+	top:50px;
+	width:100%;
+}
+.ui-content
+{
+	border:0px solid red !important;
+	position:relative;
+	top:50px;
+}
+</style>
+</body>
+</html>

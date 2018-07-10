@@ -1,0 +1,389 @@
+{
+    "chapter": {
+       			
+			"1":[
+			{
+			"heading":"Chapter 1 ",
+			"title":" Preliminary.<p></p>",
+			"sectionstart":" 1 ",
+			"sectionend":" 3.<p></p>"
+			}
+			],
+			
+			
+			"2":[
+			{
+			"heading":"Chapter 2 ",
+			"title":" MANUFACTURE.<p></p>",
+			"sectionstart":"4 ",
+			"sectionend":" 5.<p></p>"
+			}
+			],
+			
+			"3":[
+			{
+			"heading":"Chapter 3 ",
+			"title":" POSSESSION AND SALE.<p></p>",
+			"sectionstart":" 6 ",
+			"sectionend":"  16.<p></p>"
+			}
+			],
+			
+			"4":[
+			{
+			"heading":"Chapter 4 ",
+			"title":" ACCOUNTS.<p></p>",
+			"sectionstart":" 17 ",
+			"sectionend":"  17.<p></p>"
+			}
+			],
+			
+			"5":[
+			{
+			"heading":"Chapter 5 ",
+			"title":" APPROVAL,AUTHORISATION AND PERMITS.<p></p>",
+			"sectionstart":" 18 ",
+			"sectionend":" 32.<p></p>"
+			}
+			],
+			
+			"6":[
+			{
+			"heading":"Chapter 6 ",
+			"title":"POPPY STRAW.<p></p>",
+			"sectionstart":" 18 ",
+			"sectionend":" 32.<p></p>"
+			}
+			],
+			
+			"7":[
+			{
+			"heading":"Chapter 7 ",
+			"title":" IMPORT,EXPORT AND TRANSPORT.<p></p>",
+			"sectionstart":" 33 ",
+			"sectionend":" 43.<p></p>"
+			}
+			],
+			
+			"8":[
+			{
+			"heading":"Chapter 8 ",
+			"title":" OPIUM.<p></p>",
+			"sectionstart":" 44 ",
+			"sectionend":" 46.<p></p>"
+			}
+			]
+		},
+		
+		
+	"section": {
+			"1": [
+			
+				
+			{
+			"section_id":"1",
+			"title":"1: Short title, extent and commencement",
+			"content":"(1) These rules may be called the Tamil Nadu Narcotic Drugs Rules, 1985.<p></p>(2) They shall extend to the whole of the State of Tamil Nadu.<p></p>(3) They shall come into force on the 14th November, 1985.<p></p>"
+			},
+			
+			{
+			"section_id":"2",
+			"title":"2: Definitions",
+			"content":"In these rules, unless there is anything repugnant in the subject or context-<p></p>(i) Act  means the Narcotic Drugs and Psychotropic Substances Act, 1985 (Central Act 61 of 1985).<p></p>(ii) Approved practitioner  means <p></p> (a) any person registered as a medical practitioner under any law for the time being in force in India for the registration of medical practitioners.<p></p> (b) any Medical Officer of the Military, Naval or Air Force Services on the active list, or<p></p>(c) any qualified Veterinary Surgeon.<p></p>(iii) Collector means a Collector of a district and includes any other officer empowered by the Government to perform all or any of the functions of a Collector under these rules.<p></p>(iv) Commissioner means the Commissioner of Prohibition and Excise, Madras, and include any other officer specially authorized by the Government to exercise throughout the State or any specified area therein all or any of the powers of the Commissioner under these rules.<p></p>(v) export means to take out of the State of Tamil Nadu to any other State or Union Territory in India.<p></p>(vi) Form means a Form appended to these rules.<p></p>(vii) Government means the Government of Tamil Nadu.<p></p>(viii) Import  means to bring into the State of Tamil Nadu from any other State or Union Territory in India.<p></p>(ix) Licensed Chemist  means a person who has obtained a permit under these rules for the sale on prescription only and for manufacture of narcotic drugs from materials which he is lawfully entitled to possess.<p></p>(x) licensed dealer  means a person who has obtained a permit under these rules <p></p> (a) for the manufacture of medicinal opium or of any preparation containing opium, morphine and codeine and their salts and such other manufactured drugs notified under Section 2 (xi) (b) of the Act from the materials which he is lawfully entitled to possess;<p></p> (b) for the possession and sale otherwise than on prescription such manufactured drugs as referred to in(a) above; and<p></p> (c) to purchase or sell poppy straw<p></p>(xi) manufactured drugs means <p></p> (a) medicinal cannabis and medicinal opium ;<p></p> (b) morphine, codeine, thebaine and their salts;<p></p> (c) coca derivatives; and<p></p> (d) any other manufactured drugs notified under Section-2(xi)<p></p>(b) of the Act.<p></p>(xii) Medical Authority means the authority constituted by the Government for the purpose of these rules.<p></p>(xiii) Narcotic drugs means narcotic drugs as defined under Section-2.<p></p>(xiv) of the Act.<p></p>(xiv) Prescription means a prescription given by an approved practitioner for the supply of any narcotic drugs in accordance with these rules.<p></p>(xv) State means the State of Tamil Nadu.<p></p>"
+			},
+			
+			{
+			"section_id":"3",
+			"title":"3: Prohibition",
+			"content":"No person or any institution shall manufacture, possess, sell, purchase, transport, warehouse, use, consume, import or export except for medical or scientific purposes and in the manner and to the extent provided by the provisions of these rules any narcotic drugs: Provided that the Government Opium and Alkaloid Works, Ghazipur / Neemuch may engage in the aforesaid operations in accordance with the provisions of the Narcotic Drugs and Psychotropic Substances Rules, 1985.<p></p>"
+			}
+			
+			
+			],
+				
+			
+		"2":[
+			
+			{
+			"section_id":"4",
+			"title":"4: Manufacture of medicinal opium etc",
+			"content":"Manufacture of medicinal opium from the material which the maker is lawfully entitled to possess, or of medicinal hemp, are prohibited save in accordance with the conditions of a permit issued in From ND/ RC on payment of the fee of Rs.5 (Rupees five only)<p></p>"
+			},
+			
+			{
+			"section_id":"5",
+			"title":"5: Manufacture of preparations",
+			"content":"A licensed dealer or licensed chemist may, subject to the conditions of a permit issued to him in Form ND/RC and subject to the payment of the fee of Rs.5 (rupees five only) manufacture any preparation containing any manufactured drug from the material which the maker is lawfully entitled to possess.<p></p>"
+			}			
+			
+			
+		],
+		
+		"3":[
+		
+			{
+			"section_id":"6",
+			"title":"6: Dispensing of manufactured drugs",
+			"content":"No licensed chemist or an approved practitioner shall dispense manufactured drugs except on prescription and in accordance with the conditions of his permit.<p></p>"
+			},
+			
+			{
+			"section_id":"7",
+			"title":"7: Possession of manufactured drugs",
+			"content":"No person shall possess any manufactured drugs except in such quantity as has been, at one time, dispensed or sold for his use in accordance with the provisions of rule 6 or of corresponding, rules for the time being in force in any part of India, the import wherefrom into, or export whereto from the State of Tamil Nadu permitted.<p></p>"
+			},
+			
+			{
+			"section_id":"8",
+			"title":"8: Possession of manufactured drugs by approved practitioner",
+			"content":"(1) No approved practitioner shall for the purpose of sale,<p></p>possess any quantity of any manufactured drugs: Provided that such practitioner may for use in his practice, possess<p></p>such quantity of such manufactured drugs as specified in the permit<p></p>ND/RC: Provided further that the Collector may by special order, authorize<p></p>any such practitioner to possess a larger quantity of such drugs.<p></p>(2) No approved practitioner shall for the purpose of sale, possess any quantity of cocaine derivatives: Provided that such practitioner may under special permit issued in<p></p>this behalf by the Collector, in Form ND/RC possess for use in his<p></p>practice any manufactured drugs containing such quantity of cocaine in<p></p>the aggregate, as may be specified in the special permit.<p></p>Explanation - For the purpose of this rule the expression use in his practice means only the actual direct administration of the drug in<p></p>injections, surgical operations or other emergent cases by or in the<p></p>present of an approved practitioner<p></p>"
+			},
+			
+			{
+			"section_id":"9",
+			"title":"9: Possession of manufactured drugs by Government Medical Officer, etc",
+			"content":"(1) A Government Medical Officer-in-charge of Government Medical Institution or of a Government grant-in-aid Medical Institution may possess manufactured drugs for use in such institution.<p></p>(2) An approved practitioner incharge of a municipal dispensary or of a hospital and dispensary belonging to mission and other corporate bodies may possess manufactured drugs required for use in such dispensary and hospital.<p></p>(3) A Government Medical Officer-in-charge of a hospital and dispensary belonging to Railways may possess manufactured drugs for use in such hospital and dispensary.<p></p>"
+			},
+			
+			{
+			"section_id":"10",
+			"title":"10: Maintenance of accounts",
+			"content":"A Medical Officer or an approved practitioner possessing manufactured drugs under rule 9 shall:<p></p>(a) keep accounts of manufactured drugs received, used and held in stock by him from time to time, in Form ND/ACI.The accounts shall be clearly and correctly written up daily in books bound, paged and sealed with the seal of the Collector, or any such authority and shall show in each case of purchase, the date of purchase was made ;<p></p>(b) preserve the said account for not less than two years from the date of the last entry in the account book and shall produce them, together with any manufactured drugs that may be in his possession at the time of inspection of demand by the Collector or any other officer duly authorized by him in this behalf.<p></p>(c) furnish to the Collector or any other officer duly authorized<p></p>by him in this behalf, within a week after the end of each<p></p>calendar year, information regarding the purchase and<p></p>consumption of manufactured drugs during the preceding<p></p>year, the stock of manufactured drugs held by him on the<p></p>last day of the year, in Form ND/ACI for the purpose.<p></p>"
+			},
+			
+			{
+			"section_id":"11",
+			"title":"11: Possession of manufactured drugs by persons authorized by Collector",
+			"content":"No person shall, unless he is authorized in this behalf by the Collector by an order, possess any manufactured drug.The order shall specify the maximum quantity of such drug that may be possessed and the conditions subject to which the same may be possessed.<p></p>"
+			},
+			
+			{
+			"section_id":"12",
+			"title":"12: Possession of manufactured drugs by licensed dealer or licensed chemist",
+			"content":"No licensed dealer in manufactured drugs or licensed chemist shall possess manufactured drugs, except in such quantity and in such manner as may be specified in his permit.<p></p>"
+			},
+			
+			{
+			"section_id":"13",
+			"title":"13: Sale of manufactured drugs by licensed dealer",
+			"content":"(1) A licensed dealer in manufactured drugs may sell, otherwise than on prescription, manufactured drugs subject to the conditions of his permit.<p></p>(2) A licensed dealer shall maintain a written record of every sale made under his permit in the manner laid down therein and in such other manner as the Commissioner may from time to time, direct, and shall preserve record for not less than two years from the date of the last entry therein.<p></p>"
+			},
+			
+			{
+			"section_id":"14",
+			"title":"14: Sale of manufactured drugs by licensed chemist",
+			"content":"No licensed chemist shall sell manufactured drugs otherwise than on prescription and subject to the conditions of his permit and maintenance of prescribed accounts.<p></p>"
+			},
+			
+			{
+			"section_id":"15",
+			"title":"15: Sale of manufactured drugs by permit-holder to authorized persons",
+			"content":"Notwithstanding anything contained in these rules, the holder of a permit shall, whenever required to do so, sell any manufactured drugs to any officer of the Government, who is duly authorized by the Government in this behalf to purchase and possess such drug on behalf<p></p>of the Government: Provided that a receipt may be obtained by the holder of the permit from the officer for the same and kept on his record.<p></p>"
+			},
+			
+			{
+			"section_id":"16",
+			"title":"16: Conditions relating to prescriptions",
+			"content":"No prescription for the supply of manufactured drugs shall be given by an approved practitioner<p></p>otherwise than in accordance with the following conditions, namely:<p></p>(a) the prescription shall be in writing, shall be dated and<p></p>signed by the approved practitioner with his full name and<p></p>address and qualifications and shall specify the name and<p></p>address of the person to whom, and the nature of ailment<p></p>for which, the prescription is given, the directions, for use<p></p>and the total amount of the drug to be supplied on the<p></p>prescription, provided that where the medicine to be<p></p>supplied on the prescription is a proprietary medicine, it<p></p>shall be sufficient to state the amount of medicine to be<p></p>supplied. When a dose in excess of the usual dosage of<p></p>any such manufactured drugs is prescribed, the amount of<p></p>the dose shall be emphasised by being underlined and the<p></p>initials of the practitioner set in the margin opposite.<p></p>(b) the prescription shall not be given for the use of the prescriber himself.<p></p>(c) a registered dentist shall give a prescription only for the<p></p>purpose of dental treatment and shall make it  for local dental treatment only,and<p></p>(d) a registered veterinary surgeon shall give a prescription<p></p>only for the purpose of treatment of animals and shall make<p></p>it  for treatment of animal only <p></p>"
+			}
+		],
+		
+		"4":[
+			{
+			"section_id":"17",
+			"title":"17: Maintenance of Records",
+			"content":"Notwithstanding any other<p></p>provision relating to the maintenance of accounts contained in these<p></p>rules, the Government may prescribe the maintenance of such records in<p></p>such form and submission of such returns as it may consider necessary<p></p>for the purpose of these rules.<p></p>"
+			}
+			],
+			
+		"5":[	
+			
+			{
+			"section_id":"18",
+			"title":"18: Approval of persons engaged in veterinary practice to possess, imports etc., of manufactured drugs",
+			"content":"The Collector may, for the purpose of these rules, approve any person engaged in veterinary practice to possess, import or transport manufactured drugs in such quantity and in such manner as may be specified by him in that order.<p></p>"
+			},
+			
+			{
+			"section_id":"19",
+			"title":"19: Authorisation by Collector or persons incharge of educational institutions, etc., to possess, import, etc, of manufactured drugs",
+			"content":"The Collector may, with the sanction of the Commissioner by special order, authorise <p></p>(i) any approved practitioner in managing or supervising charge<p></p>of a hospital or dispensary, not being a Government or<p></p>municipal hospital or dispensary, to possess, import or<p></p>transport manufactured drugs in such quantity and in such<p></p>manner as may be specified by him in that order;and<p></p>(ii) any person incharge of an educational institution or engaged<p></p>in scientific research to possess, or transport for educational<p></p>and scientific purpose only manufactured drugs in such<p></p>quantity and in such manner as may be specified by him in<p></p>that order.<p></p>"
+			},
+
+			{
+			"section_id":"20",
+			"title":"20: Power of the Commissioner to authorize export of manufactured drugs",
+			"content":"The Commissioner may, by special order,<p></p>authorise any person to export manufactured drugs subject to such<p></p>conditions, if any, as may be specified in that order.<p></p>"
+			},
+			
+			{
+			"section_id":"21",
+			"title":"21: Power of Collector to issue dealers permit and chemists permit",
+			"content":"(1) The Collector may issue to any person a dealers permit in<p></p>Form ND/RC permitting him to manufacture and / or possess and sell<p></p>manufactured drugs subject to the provisions of these rules and to the<p></p>conditions of the permit.<p></p>(2) The Collector may issue to any person chemists permit in Form<p></p>ND/RC permitting him to manufacture, possess and sell manufactured<p></p>drugs subject to the provisions of these rules and to the conditions of the<p></p>permit.<p></p>(3) A fee of Rs.5 (rupees five only) shall be levied on every permit<p></p>issued under sub-rule(1) or sub-rule(2).<p></p>"
+			},
+			
+			{
+			"section_id":"22",
+			"title":"22: Application for issue of permits",
+			"content":"(1) Any approved  practitioner, licensed dealer or licensed Chemist desiring to possess and<p></p>sell medicines containing any manufactured drugs shall make an<p></p>application to the Collector for a permit in that behalf.The application and<p></p>permit may be in Form ND/ AL 2 and ND/ RC respectively:<p></p>(2) On receipt of such application,the Collector shall make such<p></p>enquiries as deemed necessary and if he is satisfied that there is no<p></p>objection to issue the permit applied for,he may issue the applicant a<p></p>permit on payment of the prescribed fee.<p></p>"
+			},
+			
+			{
+			"section_id":"23",
+			"title":"23 :Grant of authorisation for import of manufactured drugs.",
+			"content":"The Commissioner may grant to any licensed dealer or licensed chemist<p></p>an authorisation for the import of manufactured drugs not exceeding the<p></p>quantity which such dealer or chemist may lawfully possess.<p></p>"
+			},
+			
+			{
+			"section_id":"24",
+			"title":"24: Procedure for import of manufactured drugs from Tamil Nadu",
+			"content":"When an authorization has been granted, under the rules for the<p></p>time being in force in any part of India outside the State to any person to<p></p>import manufactured drugs from the State into such part of India, such<p></p>person shall present such authorisation to the Commissioner who shall<p></p>enter therein the period for which the authorisation is to remain in force<p></p>and the route by which and the person (if any) in whose charge the<p></p>consignment is to be conveyed and the number and description of the<p></p>package and shall countersign the authorisation<p></p>"
+			},
+			
+			{
+			"section_id":"25",
+			"title":"25: Permit for transport of manufactured drugs",
+			"content":"(1) The Collector may issue to any licensed dealer or licensed chemist a permit in From<p></p>ND/TP for the transport of manufactured drugs not exceeding the quantity<p></p>which such dealer or chemist may lawfully possess.<p></p>Provided that a licensed dealer selling manufactured drugs to<p></p>another licensed dealer or licensed chemist may issue a permit in the said<p></p>Form ND/TP for the transport to the buyer of such drugs.<p></p>(2) While issuing a permit under sub-rule(1), the Collector shall give<p></p>intimation of the issue of the permit to the Collector of the district to which<p></p>the transport is to be made and keep in his office a copy of the permit so<p></p>issued.<p></p>(3) On being issued a permit under sub-rule(1), the licensed dealer<p></p>shall give intimation of the same to the Collector of the District to which the<p></p>transport is to be made.<p></p>"
+			},
+			
+			{
+			"section_id":"26",
+			"title":"26: Issue of personal permit",
+			"content":"(1) Any addict desiring to possess<p></p>and consume opium on medical advice shall register himself before the<p></p>Collector. Every application for registration shall be made in Form ND/A-1.<p></p>(2) On receipt of the application and before registration, the Collector<p></p>shall call upon the applicant to be examined by a Medical Authority.<p></p>(3) The Collector shall also make enquiries through the<p></p>Commissioner of Police in the City of Madras or the Superintendent of<p></p>Police elsewhere to satisfy himself that <p></p>(i) the applicant is not less than 21 years of age on the date<p></p>of application;<p></p>(ii) the application is permanent resident of the State;<p></p>(iii) the health of the applicant will be seriously affected, if he<p></p>is not permitted to consume opium; and<p></p>(iv) the applicant is not likely to misuse this facility.<p></p>(4) If the Collector is satisfied that there in no objection to register<p></p>the applicant, he shall issue a permit to the applicant, in Form ND/PP. If<p></p>he is not satisfied about the bona fide of the applicant, he shall reject the<p></p>application and intimate the applicant accordingly.<p></p>(5) Every personal permit issued under this rule shall be valid for the<p></p>financial year beginning from the 1st April or from the date of issue and<p></p>ending with the 31st March immediately following.<p></p>"
+			},
+			
+			{
+			"section_id":"27",
+			"title":"27: Fee for medical examination",
+			"content":"The fee for examination of an addict by the Medical Authority for the issue of a personal permit shall be fixed by the Government from time to time.<p></p>"
+			},
+			
+			{
+			"section_id":"28",
+			"title":"28: Record of medical examination",
+			"content":"(1) In every case of medical<p></p>examination under these rules, the Medical Authority shall before arriving<p></p>at its decision, take into consideration the age, general health, medical<p></p>history and period of habituation to taking opium and any other matter as it<p></p>deems fir and may make such clinical examination of the applicant and<p></p>carry out such test as it deemed necessary. The medical authority may<p></p>also take into consideration any statement made by the applicant or any<p></p>fact or observation recorded in writing by the personal Medical Advisor of<p></p>the applicant produced by him.<p></p>(2) A record of the medical examination of the applicant under<p></p>these rules shall be kept by Medical Authority in From ND/ME.The<p></p>document, if any, produced by the applicant shall form part of the record.<p></p>The record of the medical examination in Form ND/ME with the document<p></p>referred to above shall be forwarded to the Collector immediately after the<p></p>medical examination is completed.<p></p>"
+			},
+			
+			{
+			"section_id":"29",
+			"title":"29: Register to be maintained in respect of personal permits and certificate issued",
+			"content":"Register in Form ND/RG-1 and ND/RG-2 shall, respectively, be maintained in the office of the Collector in respect of<p></p>personal permit and certificate of registration issued by the said authority.<p></p>The register in Form ND/RGI shall be kept separately for each taluka in the<p></p>district separately for each financial year and shall be maintained upto date.<p></p>"
+			},
+			
+			{
+			"section_id":"30",
+			"title":"30: Validity of permit, approval, etc",
+			"content":"(1) Every permit, approval 1(authorisation) issued under these rules shall be valid for the financial year beginning from the 1st April or from the date of issue and ending with<p></p>the 31st March immediately following.<p></p>"
+			},
+			
+			{
+			"section_id":"31",
+			"title":"31: Renewal of permit, approval etc",
+			"content":"(a) The persons desiring renewal or approval of authorisation may apply to the Collector of the district.<p></p>(b) The holder of personal permit shall apply to the Collector of the district for its renewal in Form ND/A 1.1.<p></p>(c) An application in Form ND/A1.2 for renewal of permit issued under rule 22 shall reach the Collector of the district atleast one month<p></p>before the date of expiry of the validity period thereof. Any application<p></p>received after the date of expiry of the permit shall be treated as an<p></p>application for a fresh permit. Where an application for renewal of permit<p></p>has not been made within one month before the date of expiry of the<p></p>permit but made before the expiry of the validity period specified therein,<p></p>shall pay the prescribed fee and a penalty of Rs.5 (rupees five only)<p></p>through challans and such challans shall be accompanied with the<p></p>application. The Collector of the district may admit such applications made<p></p>after the due date, but before the date of expiry of the permit, provided, he<p></p>is satisfied that there are good and sufficient reasons for such delay. If any<p></p>application for the renewal of licence made within the time specified is not<p></p>disposed of by the licensing authority before the date of expiry of the<p></p>licence, the period of licence shall be deemed to have been further<p></p>extended for a period of two months from the date of such licence or till the<p></p>date of receipt of the orders passed by the licensing authority on the<p></p>application of renewal, whichever is earlier.<p></p>(d) The Collector of the district shall, on his being satisfied about the<p></p>bonafides of the application, renew the permit, approval, authorisation or<p></p>reject the same. The decision of the Collector of the district in this regard<p></p>shall be final).<p></p>"
+			},
+			
+			{
+			"section_id":"32",
+			"title":"32: Suspension or cancellation of permit, approval, 3[authorisation issued]",
+			"content":"(1) The Officer who has issued a permit, approval 4[authorization] or personal permit under these rules may after<p></p>giving the holder of such permit, approval, authorisation or personal permit<p></p>an opportunity to show cause, by and order in writing, stating the reasons<p></p>therefor, cancel such permit, approval, authorisation or personal permit,<p></p>suspend it for such period as he thinks fit either wholly or in respect of<p></p>some of the opium manufactured drugs to which it relates, if, in his opinion,<p></p>such person has <p></p>(a) failed to pay duty or fee payable by him ; or<p></p>(b) by himself or by any servant or person acting on his behalf committed any breach of conditions of such permit, approval<p></p>etc, or these rules, or<p></p>(c) been convicted of any offence under the Act or under the law<p></p>for the time being in force relating to excise, revenue, or<p></p>prohibition or of any criminal offence ; or any other case not<p></p>falling under this clause.<p></p>(2) The Officer who has issued a permit to or has by order approved,<p></p>or authorised any person or issued personal permit under these rules shall<p></p>cancel such permit or order or personal permit within fifteen days of the<p></p>receipt of a notice from such person that he desires to surrender the same.<p></p>(3) When such permit or order or personal permit is cancelled or<p></p>suspended, such person shall forthwith make over to the Collector all<p></p>opium manufactured drugs then in his possession.<p></p>(4) When any manufactured drug in possession of any person<p></p>permitted or authorised under these rules is found by him to be unfit for<p></p>use such person shall forthwith deliver up such drug to the Collector.<p></p>"
+			}			
+			
+		
+		],
+		
+		"7":[
+			
+			{
+			"section_id":"33",
+			"title":"33: Manner of disposal of poppy straw",
+			"content":"Every cultivator<p></p>licensed to cultivate opium poppy for the production of opium, under the<p></p>Narcotic Drugs and Psychotropic Substances Rules 1985, shall, after<p></p>each harvesting of opium, dispose of, subject to the provisions of rule 4,<p></p>the poppy straw obtained from such cultivation, in the following manner <p></p>(i) He shall not keep with him such poppy straw in any year beyond the 31st of July of the same year;<p></p>(ii) He may dispose of such poppy straw before the expiry of the aforesaid date by <p></p>(a) selling the same to a licensed dealer within the State or in any other State;<p></p>(b) warehousing the same for sale, import or export from India;<p></p>(c) exporting the same of warehousing;<p></p>(d) exporting the same out of India;<p></p>(e) using the same as manure in his field; or<p></p>(f) destroying the same.<p></p>"
+			},
+			
+			{
+			"section_id":"34",
+			"title":"34: Import, export, etc, of manufactured drugs",
+			"content":"No person shall import, export or transport any manufactured drug except in such quantity as he may<p></p>"
+			},
+			
+			{
+			"section_id":"35",
+			"title":"35: Import, export",
+			"content":"No approved practitioner shall import, export or<p></p>transport any manufactured drug except such drugs as may be specified<p></p>and in such quantities as he may be lawfully allowed to possess by the<p></p>Government.<p></p>"
+			},
+			
+			{
+			"section_id":"36",
+			"title":"36: Import of manufactured drugs by any authorised person",
+			"content":"Any person authorized in this behalf may import manufactured drugs in<p></p>such quantity and in such manner as may be specified in that order.<p></p>"
+			},
+			
+			{
+			"section_id":"37",
+			"title":"37: Export outside the State of manufactured drugs by a licensed dealer",
+			"content":"A licensed dealer may, subject to the conditions of his<p></p>permit, export manufactured drugs to any part of India, outside the State<p></p>subject to the terms of an import authorisation issued under the rules for<p></p>the time being in force in such part of India and countersigned by the<p></p>Commissioner as required by these rules.<p></p>Explanation  For the purpose of this rule, an indent for<p></p>manufactured drugs countersigned by the Chief Medical Officer or Civil<p></p>Surgeon or Superintendent of the Civil Veterinary Department shall be<p></p>deemed to be an authorization and shall not require further countersignature.<p></p>"
+			},
+			
+			{
+			"section_id":"38",
+			"title":"38: Export of manufactured drugs by any authorised person",
+			"content":"Any person authorised in this behalf by the Commissioner by a special<p></p>order made under these rules may export manufactured drugs in such<p></p>quantity and in such manner as may be specified in that order.<p></p>"
+			},
+			
+			{
+			"section_id":"39",
+			"title":"39: Manner of transport of manufactured drugs",
+			"content":"Any person to whom a permit or authorisation has been issued under these rules for<p></p>the transport of manufactured drugs may transport the drugs in such<p></p>quantity and in such manner as may be specified in the permit or authorisation issued to him.<p></p>"
+			},
+			
+			{
+			"section_id":"40",
+			"title":"40: Compliance of directions given by the Commissioner",
+			"content":"Every person importing, exporting or transporting manufactured drugs shall comply with such general or special directions as may be given by the Commissioner<p></p>"
+			},
+			
+			{
+			"section_id":"41",
+			"title":"41: Procedure for import of manufactured drugs from other State",
+			"content":"Nothing contained in these rules shall be deemed to permit the<p></p>import of manufactured drugs from any part of India outside the State<p></p>unless the rules for the time being in force in such part of India relating to<p></p>the export drugs have been complied with.<p></p>"
+			},
+			
+			{
+			"section_id":"42",
+			"title":"42: Restriction on import, export, etc., of manufactured drugs by post",
+			"content":"Except as provided in these rules, no one shall import, export or transport by post, manufactured drugs.<p></p>"
+			},
+			
+			{
+			"section_id":"43",
+			"title":"43: Transmission of manufactured drugs by inland post",
+			"content":"The transmission of manufactured drugs by inland post by licensed<p></p>chemist and licensed dealers for medical purposes is permitted subject to<p></p>the following conditions namely <p></p>(i) only the parcel shall be used;<p></p>(ii) the parcel shall be insured;<p></p>(iii) the parcels shall be covered by permits which shall, in the case of transmission to a district within the State, be issued by the Collector of that district and in other cases by the<p></p>proper authorities in the State to which the parcels are addressed.<p></p>(iv) the parcels shall be accompanied by a declaration stating<p></p>the names of the consignee and the consignor, the contents<p></p>of the parcels in detail, the number and date of the permit<p></p>covering the transmission and the number of the permit<p></p>held by the consignee; and<p></p>(v) the consignee shall show directly in his account books the<p></p>name of the consignor and the quantity of drugs sent to him<p></p>from time to time by post.<p></p>"
+			}	
+					
+			
+		],
+		
+		"8":[
+			
+			{
+			"section_id":"44",
+			"title":"44: Purchase of opium by Government",
+			"content":"(1) Notwithstanding anything contained in rule 4 opium may be purchased by the Government<p></p>from the Government Opium Factory, Ghazipur, for use by the addicts<p></p>registered with the Government. Such supplies may be made against<p></p>annual from the Government to the officer(s) authorised by the<p></p>Government to receive such opium.<p></p>(2) The opium received in accordance with sub-rule(1) may be<p></p>kept in the District Treasury with proper security<p></p>arrangement.<p></p>"
+			},
+			
+			{
+			"section_id":"45",
+			"title":"45: Issue of opium from district Treasury",
+			"content":"The issue of opium<p></p>from the District Treasury to the registered addicts may be made in such<p></p>quantity and at such price and subject to such conditions as may be<p></p>specified in this behalf by the Government.<p></p>"
+			},
+			
+			{
+			"section_id":"46",
+			"title":"46: Exemption - Nothing contained in these rules shall apply to",
+			"content":"(i) possession, by a cultivator licensed to cultivate opium<p></p>poppy for the production of opium, under the Narcotic<p></p>Drugs and Psychotropic Substances Rules, 1985 of his<p></p>opium produce, until such time, such produce is required to<p></p>be delivered by him to the officer of the Narcotic<p></p>Department authorised to receive such opium on account of<p></p>Central Government.<p></p>(ii) transport of opium by a licensed opium poppy cultivator of<p></p>his opium produce from the field from which it is produced<p></p>to his residency and from his residence to the opium<p></p>weighment centre set up by the Narcotics Department for<p></p>the collection of such opium;<p></p>(iii) transport of opium from the weighment centre to the<p></p>Government Opium and Alkaloid works at Ghazipur and<p></p>Neemuch on account of Central Government;<p></p>(iv) transport, export or import, of opium or any manufactured<p></p>drug from or to the Government Opium and Alkaloid Works,<p></p>Ghazipur / Neemuch.<p></p>"
+			}
+			
+			
+		]
+			
+		}
+}

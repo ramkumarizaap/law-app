@@ -1,0 +1,353 @@
+  {
+  "chapter": {
+        "1": [
+            {
+                "heading": " Part 1.<p></p>",
+                "title": "GENERAL<p></p>",
+                "sectionstart": "1<p></p>",
+                "sectionend": "11<p></p>"
+            }
+        ],
+        "2": [
+            {
+                "heading": "Part 2.<p></p>",
+                "title": "APPROVAL OF LOCATION OF THE SITE FOR EXHIBITION OF FILM ON TELEVISION SCREEN THROUGH VIDEO CASSETTE RECORDERS.<p></p>",
+                "sectionstart": "12<p></p>",
+                "sectionend": "14<p></p>"
+            }
+        ],
+        "3":[
+		   {
+		   "heading":"Part 3<p></p>",
+		   "title":" PROVISIONS RELATING LICENCES..<p></p>",
+		   "sectionstart":" 15 ",
+		   "sectionend":" 16.<p></p>"
+		   }
+		   ],
+		 "4":[
+		 {
+		 "heading":"Part 4 <p></p>",
+		 "title":" PERMISSION FOR THE BUILDING CONSTRUCTED AND ISSUE OF LICENSE..<p></p>",
+		 "sectionstart":" 17 <p></p>",
+		 "sectionend":" 21.<p></p>"		 
+		 }
+		 ],
+		  "5":[
+		 {
+		 "heading":"Part 5 <p></p>",
+		 "title":" RENEWALS.<p></p>",
+		 "sectionstart":" 22 <p></p>",
+		 "sectionend":" 38.<p></p>"
+		 }
+		 ],
+		  "6":[
+		 {
+		 "heading":"Part 6 <p></p>",
+		 "title":"PART VI.<p></p>",
+		 "sectionstart":" 39 ",
+		 "sectionend":" 41.<p></p>"
+		 }
+		 ]	,
+		 "7":[
+		 {
+		 "heading":"Part 7 <p></p>",
+		 "title":" REVISION.<p></p>",
+		 "sectionstart":" 42<p></p>",
+		 "sectionend":" 42.<p></p>"		 
+		 }
+		 ],
+		  "8":[
+		 {
+		 "heading":"Part 8 <p></p>",
+		 "title":" PREMISES AND BUILDINGS.<p></p>",
+		 "sectionstart":" 43 <p></p>",
+		 "sectionend":"50.<p></p>"
+		 }
+		 ],
+		  "9":[
+		 {
+		 "heading":"Part 9 <p></p>",
+		 "title":"MAINTENANCE OF PREMISES.<p></p>",
+		 "sectionstart":" 51<p></p>",
+		 "sectionend":" 57.<p></p>"
+		 }
+		 ]
+       },
+	   
+	   "section": {
+            "1": [
+            {	"section_id": "1",
+                "title": "1: Short title",
+                "content": "These Rules may be called The Tamil Nadu Exhibition of Films on Television Screen through Video Cassette Recorders and Cable Television Network (Regulation) Rules, 1984.<p></p>"
+                
+            },
+			{	"section_id": "2",
+                "title": "2:Application",
+                "content": "These rules shall apply to all the existing premises, in the State of Tamil Nadu; where films are exhibited on television through Video Cassette Recorder or through Cable Television Network and the premises in the State of Tamil Nadu where a Video Library is kept and to those which come into existence after the publication of these rules in the Tamil Nadu Government Gazette.<p></p>"
+                
+            },
+		    {	"section_id": "3",
+                "title": "3 : Definition.",
+                "content": "In these rules unless there is anything repugnant in the subject or context<p></p>(a) Building means a building which is constructed with stone mud brick mortar cement or other non-inflammable material.<p></p>(b) Form means from appended to these rules.<p></p>(c) Local authority means <p></p>(a) Municipal Council constituted under any law for the time being in force; or<p></p>(b) a Municipal Council constituted under the Tamil Nadu District Municipalities Act 1920 (Tamil Nadu Act V of 1920) or<p></p>(c) a township committee constituted under the Tamil Nadu District Municipalities Act 1920 (Tamil Nadu Act V of 1920) or the Tamil Nadu Panchayat Act 195 8 (Tamil Nadu Act XXXV of 1958) or the Mettur Township Act 1940 (Tamil Nadu Act XI of 1940) or the Courtallam Township Act 1954 (Tamil Nadu Act XVI of 1954) or the Bhavanisagar Township Act 1954 (Tamil Nadu Act XXV of 1954) or under any other law for the time being in force; or<p></p>(d) a Panchayat Union Council or a panchayat constituted under the Tamil Nadu Panchayats Act 1958 (Tamil NaduAct XXXV of 1958).<p></p>(e) Act means the Tamil Nadu Exhibition of Films on Television Screen through Video Cassette Recorders and Cable Television Networks (Regulation) Rules 1984 (Tamil Nadu Act 7 of 1894)<p></p>"               
+            },
+			{	"section_id": "4",
+                "title": "4 : Decision of the Government to be final.",
+                "content": "If any question arises as to the interpretation of these rules otherwise than in connection with the prosecution for an offence, the question shall be referred to the Government, whose decision thereon shall be final.<p></p>"
+                
+            },
+			{	"section_id": "5",
+                "title": "5 : Display of Rules and Licences.",
+                "content": "The rules and the licence issued under this Act printed in large typed, together with the name and address of the licensee affixed thereto, shall be displayed in some conspicuous place at the principal entrance at a height of not more than 1.25 metres (one and a quarter metres) from the floor, so that any person entering the licensed premises including the Video Library may acquaint himself with such rules, and on noticing any breach of them may, report the same to the licensing authority.<p></p>"
+                
+            },
+			{	"section_id": "6",
+                "title": "6 : Age Limit.",
+                "content": "No person, other than a company or an association of persons, shall be entitled to obtain or hold any licence under the Act unless such person has attained the age of twenty years.<p></p>"
+                
+            },
+		    {	"section_id": "7",
+                "title": "7 : Applicability of Electricity Act:. ",
+                "content": "The licencee shall comply with such of the provisions of the Indian Electricity Act 1910 (Central Act IX of 1910) and of the rules made thereunder as are applicable to the premises.<p></p>"
+                
+            },
+			 {	"section_id": "8",
+                "title": "8 :Production of Licence and Plan on Demand .",
+                "content": "The licence issued under this Act and the plan and description attached thereto shall be produced by the licensee on demand by any Police Officer not below the rank of a Sub-Inspector or by the licensing authority or by the Chief Electrical Inspector or by the Executive Engineer Public Works Department, or by any person authorised by them in this behalf.<p></p>"
+                
+            },
+			{	"section_id": "9",
+                "title": "9 :Smoking Prohibited .",
+                "content": "Smoking shall not be permitted within the place if the exhibition of films on Television Screen through Video Cassette Recorder or through Cable Television Network and in place. where Video libraries are located.<p></p>"
+                
+            },
+			{	"section_id": "10",
+                "title": "10 : Premises and equipment to be insured .",
+                "content": "Every licensee shall insure the licensed premises, the equipments and the Video Cassette against the risk of fire so that the licensed place and the Video Library are run, without fire hazards.<p></p>"
+                
+            },
+			{	"section_id": "11",
+                "title": "11 : Records in proof of ownership to be produced.",
+                "content": "If the applicant for the licence is the owner of the site, building and equipment, he shall produce to the licensing authority the necessary records relating to his ownership and possession thereof. If he is not the owner, he shall to the satisfaction of the licensing authority produce documentary evidence to show that he is in lawful possession of the site, building and equipment.<p></p>"
+                
+            }
+			],
+		"2":[
+		      {	
+		     "section_id": "12",
+                "title": "12 : No Objection Certificate.",
+                "content": "(1) Every person who intends to apply for permission under section 7 shall make an application to the licensing authority in Form 'A' for No Objection Certificate. The application in Form 'A' shall be accompanied by a plan of the proposed site drawn to scale and shall clearly indicate the surrounding roads and the buildings which exist up to a distance of 200 metres of the proposed site schools hospitals temples mosques churches or other places of public worship being clearly indicated.<p></p>(2) A fee of Rs. 1000/- (Rupees One thousand only) shall be paid in respect of each application and a Treasury receipt for the amount of the fee shall also be submitted along with the application under Sub-rule (1).<p></p>If the application is not filed after the fee has been remitted into the treasury, the entire fee so remitted may be refunded to the applicant. The application for such refund shall, however, be made by the applicant within one month from the date of remittance.<p></p>(3) A copy of the application in Form 'A' referred to in sub-rule (1) shall be sent to the local authority concerned, who shall forward it to the licensing authority, together with a copy of its resolution recording its objections if any to the site and to the installation of the machinery equipment.<p></p>(4) A copy of the application shall also be sent in the case of the City of Madras, to the Deputy Commissioner of Police (Traffic) Madras and elsewhere to the Superintendent of Police concerned who shall remit to the licensing authority with objections if any from the traffic point of view.<p></p>"
+                
+            },
+			{	"section_id": "13",
+                "title": "13 :Calling for Objections.",
+                "content": "(1) On receipt of the application for No Objection Certificates, the licensing authority shall scrutinise the same and ensure whether the application contains all the necessary required information.<p></p>(2) If the licensing authority considers that the applicant has not complied with any of the rules or the application is found to be defective he may after giving the applicant an opportunity of being heard reject the application.<p></p>(3) If the application is complete in all respects prima facie and it is found to comply with all the relevant rules the licensing authority shall cause a notice in Form 'B' both in English and Tamil to be displayed in the notice board of the licensing authority and the local authority concerned intimating the fact of receipt of the application and calling for objections, if any, from the public. All objections shall be filed in writing before the licensing authority within seven days from the date of display of notice. Any objection filed after this period shall be liable to be summarily rejected."
+            },
+			{	"section_id": "14",
+                "title": "14 : Grant of No Objection Certificate .",
+                "content":" (1) After considering the application with reference to the matters specified in sub-section (1) of section 6 and the objections of the local authority the police or the public the licensing authority in granting or refusing to grant a No Objection Certificate shall be communicated to the applicant and to the objections if any who have filed objections before the licensing authority.<p></p>(2) The No Objection Certificate so granted by the licensing authority shall be valid for a period of one year. If within this period the No Objection Certificate is not utilised or obtaining a licence in 'Form G' or 'Form J' a fresh No Objection Certificate shall be applied for.<p></p>Provided that the licensing authority for no reasons to be recorded in writing may extend the period of validity of the No Objection Certificate up to a maximum period of one year beyond the date of expiry of the original validity.<p></p>Explanation : For the purpose of this sub-rule durations covered by stay orders of the Commissioner of Land Administration or the High Court reckoned from the date of passing the order of stay of the date of pronouncement of the final orders vacating the stay shall be excluded in calculating the period of validity of the No Objection Certificate.<p></p>(3) Any person aggrieved by the order if the licensing authority is granting or refusing to grant a No Objection Certificate or refusing to extend the validity of the No Objection Certificate may prefer an appeal to the Commissioner for Land Administration.<p></p>APPROVAL OF PLAN OF THE BUILDING<p></p>"              
+            }
+           ],			
+		"3":[
+			{	"section_id": "15",
+                "title": "15 : Contents of Application for permission .",
+                "content": "On receipt of the No Objection Certificate referred under rule 14 the applicant shall submit an application for approval of the plan of the building existing or proposed to be constructed in the approved site. Such application shall be accompanied by <p></p>(a) complete plans elevations and sections of the premises in triplicate and all erections or buildings thereon drawn correctly to a scale of one centimeter to a metre and showing the position of the electrical machinery as prepared by an Engineer holding a decree in Civil Engineering recognised by the University Grants Commission or by a holder of Diploma in Civil Engineering with experience for a period of not less than ten years in building construction.<p></p>(b) a plan (in single line) of the wiring in Duplicate a copy of which shall also be sent to the Chief Electrical Inspector.<p></p>"
+            },
+			{	"section_id": "16",
+                "title": "16 : Consultation with the Executive Engineer and Electrical Inspector.",
+                "content": "On receipt of the plan in triplicate the licensing authority shall after consulting the Executive Engineer and the Chief Electrical Inspector to Government approval or refuse to approve the plan of the building. The licensing authority shall send one copy of the approved plan of the building to the concerned local authority. In case the licensing authority refuses approval the reasons for the same shall be recorded by him.<p></p>"
+            }   
+		],
+		"4":[
+			{	"section_id": "17",
+                "title": "17 : Electrical and Structural Soundness Certificates.",
+                "content": "(1) On commencement of construction, the applicant shall notify the Executive Engineer to enable him to issue the certificate of structural soundness under sub-rule (4).<p></p>(2) On completion of the building according to the approved plan, the applicant shall obtain <p></p>(i) a certificate in Form 'D' from the Chief Electrical Inspector.<p></p>(ii) a certificate from the Executive Engineer.<p></p>(3) The Chief Electrical Inspector's Certificate in Form D shall be valid for a period of three years:<p></p>Provided that for reasons to be recorded in writing the officer granting the certificate may reduce the period of validity of the certificate to any shorter period.<p></p>(4) The Executive Engineer's Certificate regarding structural soundness of the building shall be valid for a period of three years :<p></p>Provided that for reasons to be recorded in writing the Officer granting the certificate, may refuse to issue such certificate or grant the certificate for shorter period with certain conditions.<p></p>5) The applicant if aggrieved by any order of the Executive Engineer to grant a structural soundness certificate shall have the right to refer the matter to the Superintending Engineer concerned whose technical opinion thereon shall be final.<p></p>"
+            },
+			{	"section_id": "18",
+                "title": "18 :Application for permission.",
+                "content": "After obtaining the certificates referred to in rule 17 the applicant shall submit his application in Form 'E' for permission to the licensing authority. The application shall be accompanied by.<p></p>(1) the certificates issued by the Executive Engineer and Chief Electrical Inspector.<p></p>(2) evidence of having insured the place wherein exhibition of films on the television Screen through the Video Cassette Recorder is proposed.<p></p>"
+            },
+			{	"section_id": "19",
+                "title": "19 : Grant of permission.",
+                "content": "On receipt of the application for permission together with the certificates referred to in rule 17 and after satisfying himself the licensing authority may issue to the applicant a permission under section 7 in Form E or refuse to issue such a permission. The licensing authority may also impose any special conditions to be fulfilled in the permission. A copy of the plans and drawings referred to in rule 15 shall be attached to the permission. A copy of the order shall be communicated to the applicant and to persons if any who have filed objections before the licensing authority.<p></p>"
+            }
+			,{	"section_id": "20",
+                "title": "20 : Application and Grant of licence.",
+                "content": "(1) Every person who has obtained the permission under section 7 read with rule 19 may apply for a licence referred to in sub-section (1) of section 3 for exhibition of Cinematograph film on Television Screen through Video Cassette Recorder. Such application shall be in Form F and shall be made in triplicate. <p></p>Such application shall be accompanied by a treasury receipt for the payment of a fee of rupees one thousand. <p></p>If the application is not filed after the fee has been remitted into the treasury the entire fee so remitted may be refunded to the applicant. The application for such refund shall however be made by the applicant within one month from the date of remittance. <p></p>(2) On receipt of an application for a licence under sub-rule (1) the Licensing authority shall after satisfying itself in this regard to the matters referred to in sub-section (1) of section 6 after making such inquiry as he deems fit may grant the license exhibition of film on Television Screen through Video Cassette Recorder. <p></p>(3) The Licence shall be in the Form G and shall be subject to such terms conditions and restrictions specified therein. The licence shall be valid for the period covered by the Chief Electrical Inspector's Certificate referred to in Sub-rule (3) of rule 17. <p></p>(4) Where the licensing authority is satisfied that any of the matters referred to in subγection (1) of section 6 have not been complied with he may refuse to grant the license under section 6; <p></p>Provided that before refusing to grant the license the licensing authority shall give to the applicant a reasonable opportunity of being heard. <p></p>(5) The letter of consent referred to in section 9 shall be in Form N. <p></p>(6) Such letter of consent shall be displayed conspicuously on the Video Cassette Tape. EXHIBITION OF FILM THROUGH CABLE TELEVISION NETWORK<p></p>."
+            },
+			{	"section_id": "20A",
+                "title": "20A : Licence for exhibition of films through Cable Television Network .",
+                "content": "(1) Every application for a license for exhibition of films through the Cable Television Network under sub-section (1 -A) of section 3 shall be in Form 0 and shall be made in triplicate such application shall be accompanied by a treasury receipt for the payment of a fee of a rupees one thousand<p></p>If the application is not filed after the fee has been remitted into the treasury the entire fee so remitted may be refunded to the applicant. The application for such refund shall however be made by the applicant within one month from the date of remittance. <p></p>(2) On receipt of an application for a licence under sub-rule (1) the licensing authority shall consult the local authority concerned. <p></p>(3) On receipt of the report from the local authority referred to in sub-rule (2) and having regard to the matters referred to in sub-section (1) of section 6 and after satisfying itself as to the matters referred to in sub-section (4) thereof the licensing authority may grant the licensing for exhibition of films through the Cable Television Network. <p></p>(4) The Licence shall be in Form P and shall be subject to such terms conditions and restrictions specified therein. <p></p>(4-A). A duplicate of a licence shall be granted on payment of a fee of rupees five<p></p>(5) A duplicate of a licence shall be granted on payment of a fee of Rs. 5 (Rupees five only). <p></p>(6) Where the licensing authority is satisfied that having regard to the report of the authorities referred to in sub-rule (2) and for reasons to be recorded in writing he may refuse to grant the licence under sub-section (1-A) of section 3<p></p>Provided that before refusing to grant the licence the licensing authority shall give to the applicant a reasonable opportunity of being heard. <p></p>KEEPING OF VIDEO LIBRARY<p></p>"
+            },	
+			{	"section_id": "21",
+                "title": "21 : Licence for keeping Video Library.",
+                "content": "(1) Every application for licence for keeping Video Library under sub-section (1) of Section 4 shall be in Form-H and shall be made in triplicate. Such application shall be accompanied by a treasury receipt for the payment of a fee of rupees one thousand.<p></p>If the application is not filed after the fee has been remitted into the treasury the entire fee so remitted may be refunded to the applicant. The application for such refund shall however be made by the applicant within one month from the date of remittance and<p></p>(2) On receipt of an application for licence under sub-rule (1) the licensing authority shall consult the local authority concerned.<p></p>(3) On receipt of the report from the authority referred to in sub-rule (2) and having regard to the public interest referred to in sub-section (2) of section 6 and after satisfying itself as to the matters referred to in sub-section (4) thereof the licencing authority may grant the licence for keeping a Video Library.<p></p>(4) The licence shall be in the Form J and shall be subject to such terms conditions and restrictions specified therein.<p></p>(5) Where the licensing authority is satisfied that having regard to the report of the authorities referred to in sub-rule (2) and for reasons to be recorded in writing he may refuse to grant the license under sub-section (1) of section 4<p></p>Provided that before refusing to grant the licence the licensing authority shall give to the applicant a reasonable opportunity of being heard.<p></p>(6) A duplicate of a licence shall be granted on payment of a fee of Rs. 5  (Rupees five only).<p></p>"
+            }
+			],
+		"5":[
+			{	"section_id": "22",
+                "title": "22 : Renewal of licence .",
+                "content": "(1) Every application for renewal of the licence for Exhibition of Film on Television Screen through Video Cassette Recorder or through Cable Television Network and for Video Library shall be made one month before the expiry of the period for which the licence was granted.<p></p>Provided that the licensing authority may admit an application for renewal of the licence till the last date of expiry of licence on payment of an additional fee of Rs. 2.50 (Rupees two hundred and fifty only.<p></p>(2) such application shall be accompanied by -<p></p>(i) a treasury receipt for the payment of a fee of rupees one thousand.<p></p>(ii) evidence of having insured the place of exhibition of the film on the television screen through Video Cassette Recorder or through Cable Television Network or the Video Library; and<p></p>(iii) in the case of application for exhibition of film on Television Screen through Video Cassette Recorder evidence from the Commercial Tax authorities that there is no tax due under the Tamil Nadu Entertainment Tax Act 1939 (Tamil Nadu Act X of 1939). If the application is not filed after the fee has been remitted into the treasury the entire fee so remitted may be refunded to the applicant. The application for such refund shall however be made by the applicant within one month from the date of remittance.<p></p>(3) A copy of the application relating to renewal of licence for exhibition of film on television<p></p>screen through Video Cassette Recorders  shall be sent simultaneously to the Chief<p></p>Electrical Inspector and the Executive Engineer Public Works Department.<p></p>"
+            },
+			{	"section_id": "23",
+                "title": "23 :Inspection by Chief Electrical Inspector.",
+                "content": "For every renewal of the electrical installation and fire precautionary measures shall be  inspected by the Chief Electrical Inspector or by an officer deputed by him who will certify that the installations continue to be maintained in proper working condition according to the rules.<p></p>"
+            },
+			{	"section_id": "24",
+                "title": "24 : Inspection by Licensing Authority .",
+                "content": "On receipt of the Chief Electrical Inspectors Certificate duly renewed, the licensing authority or an officer authorised by him in this behalf shall inspect and satisfy that all the rules are observed before the licence is renewed.<p></p>"
+            },
+			{	"section_id": "25",
+                "title": "25 : Structural Boundaries.",
+                "content": "(1) For every renewal of certificate of structural soundness of the building, the licensees shall at least one month prior to the date of expiry of the period specified in that certificate of structural soundness make an application to the Executive Engineer.<p></p>(2) On receipt of the application referred to in sub-rule (1), the Executive Engineer or an officer deputed by him shall, after an inspection of the building, issue or refuse to issue such certificate.<p></p>(3) The provisions of rule relating to the issue of the certificate of structural soundness shall apply mutatis mutandis to the renewal of such certificate.<p></p>(4) The proceedings of the Executive Engineer issuing or refusing to issue the structural soundness certificate shall be sent to the licensing authority with a copy to the applicant.<p></p>"
+            },
+			{	"section_id": "26",
+                "title": "26 : Grant of Temporary Licence .",
+                "content":"If on an application for the renewal of a licence made under rule 22 the licensing authority does not for any reason, before the date of expiry of the licence either renew and return the license or refuse to renew the same he shall grant a temporary license in Form K.<p></p>Provided that in the case of application for the renew of a licence for exhibition of film on Television Screen through Video Cassette Recorders; the Chief Electrical Inspectors certificate continues to remain valid.<p></p>(2) Such temporary permit shall be subject to the conditions of the licence sought to be renewed and shall be valid for a period of one month from the date of the grant thereof and may be renewed by the licensing authority for further period of one month at a time; provided that the temporary permit shall cease to be valid and shall be surrendered to the licensing authority on the applicant receiving the licence duly renewed or on his receiving an order refusing to renew the license.<p></p>Provided further that the temporary permit shall be surrendered to the licensing authority on demand made at any time in that behalf.<p></p>(3) No fees shall be levied for the grant of such temporary permit.<p></p>(4) The temporary permit shall during the period of its validity be deemed to be a license for a purpose of these rules.<p></p>(5) If the licensing authority is satisfied either on a reference made to it in this behalf or of otherwise that the licensee has without reasonable cause failed to comply with any of the provisions of this Act or any of the rules made thereunder or any of the terms and conditions laid down in the license or any of the restrictions imposed by the licensing authority in writing, either in the license or in a separate order or direction subject to which the licence has been granted then without prejudice to any other penalty to which the licensee may be liable under this Act the licensing authority may after giving the licensee an opportunity of showing cause revode or suspend the licence.<p></p>"
+            },
+			{	"section_id": "27",
+                "title": "27 :Transfer of assignment of license from G Form J Form and Form P.",
+                "content": "When a licensee desires to transfer or assign his licence to some other person he shall together with the person to whom he desires to make the transfer or assignment make a joint application in writing to the licensing authority setting forth the reasons for the proposed transfer or assignment and giving the particulars require in Form L.<p></p>"
+            },
+			{	"section_id": "28",
+                "title": "28 :Transfer to legal heirs.",
+                "content": "Where the licencee is dead and of his legal heirs may within a period of six months from the date of the death of the licensee make an application to the licensing authority for the transfer of the licence in his name giving the particulars required in Form L.<p></p>"
+				
+            },
+			{	"section_id": "29",
+                "title": "29 :Fee for transfer or assignment.",
+                "content": "For the transfer or assignment of a licence a fee shall be charged as follows:<p></p>(a) When an application is made under rule - 27 Rupees one thousand only.<p></p>(b) When an application is made under rule - 28 Rupees five hundred only.<p></p>"
+            },
+			{	"section_id": "30",
+                "title": "30 : Contents of Application for Transfer.",
+                "content": "Every application for transfer or assignment of a licence shall be accompanied by <p></p>(a) treasury receipt for the payment of the fees at the rates prescribed in rule 29;<p></p>(b) the licence along with the copy of the instrument if any proposed to be executed by the applicants in respect of the transfer or assignment of the licence.<p></p>Explanation: In the case of an application made by any of the legal heirs of the deceased licensee the applicant shall send the consent statement obtained from all the other legal heirs of the deceased licensee for the transfer or assignment of the licence in his favour.<p></p>"
+            },
+			{	"section_id": "31",
+                "title": "31 : Display of Application.",
+                "content": "On receipt of the application the licensing authority shall cause a notice to be displayed in the notice board of the offices of the licensing authority and the local authority concerned of the fact of receipt of the application with such details as may be considered necessary and call for objections if any from the public in regard to the request contained in the application. All objections should be filed in writing before the licensing authority within 15 days from the date of publication in the notice board. Any objection filed after this period shall be summarily rejected.<p></p>"
+            },
+			{	"section_id": "32",
+                "title": "32 : Approval for transfer or assignment.",
+                "content": "The licensing authority shall consider the status, antecedents and previous experience of the parties to the application concerned and the objection of the public, if any, make an order either approving or refusing to approve the transfer or assignment of the licence. A copy of the order shall be communicated to the applicant and the persons, if any, who have filed objections before the licensing authority.<p></p>"
+            },
+			{	"section_id": "33",
+                "title": "33 : Endorsement in the license.",
+                "content": "If the licensing authority makes an order approving the transfer or assignment of the licence, he shall make necessary entries in the license and return it to the person in whose favour the licence has been transferred or assigned.<p></p>"
+            },
+			{	"section_id": "34",
+                "title": "34 : Refusal to transfer or assignment.",
+                "content": "If the application raises doubts or suspicion of trafficking in licence or involves transfer or assignment to a person, who in the opinion of the licensing authority is not in any way qualified and eligible for the grant of a new licence, the application shall be rejected.<p></p>"
+            },
+			
+			{	"section_id": "35",
+                "title": "35 : Appeal against refusal to transfer or assignment.",
+                "content": "Any person aggrieved by the decision of the licensing authority approving or refusing to approve the transfer or assignment of a license may appeal to the Commissioner of Land Administration. The rules relating to appeal in regard to grant or refusal of license shall apply to such appeals<p></p>"
+            },
+			{	"section_id": "36",
+                "title": "36 :Revision.",
+                "content": "An application for revision shall lie to the Government against the order of the Commissioner of Land Administration in such cases. The rules relating to revision in regard to the grant or refusal of licence shall apply to such application of licence for revision.<p></p>"
+            },
+			{	"section_id": "37",
+                "title": "37 : Application for transfer of No Objection Certificate to the legal heirs.",
+                "content": "[ 1 ] Where the holder of a No Objection Certificate dies, any of his legal heirs may make an application in Form M to the licensing authority before the expiry of the period of validity of No Objection Certificate for the transfer of the No Objection Certificate.<p></p>[2] Every application for transfer or assignment of No Objection Certificate shall accompanied by-fa] the No Objection Certificate in Original; and<p></p>[b] in cases where an application is made by one or more of the legal heirs of the deceased holder of No Objection Certificate the consent/statement obtained from all the other legal heirs for the transfer or assignment of the No Objection Certificate in his or their favour.<p></p>[3] Where one of the joint holders of the No Objection Certificate dies any of the legal heirs of the deceased holder of the No Objection Certificate may make an application in form H to include his name as a joint holder of No Objection Certificate in the place of deceased. If none of the legal heirs makes such an application the No Objection Certificate issued in the joint names will be deemed to have lapsed on the date of death of the one of the holders of No Objection Certificate and surviving holder of the No Objection Certificate will have to make an application afresh for grant of No Objection Certificate independently or jointly. Such application by the surviving holder shall be disposed of according to the provisions made in the these rules. [4] The Provisions of transfer or assignment of licence shall mutatis mutandis apply to the transfer of No Objection Certificate.<p></p>"
+            },
+			{	"section_id": "38",
+                "title": "38 : Joint Application.",
+                "content": "[1 ] If the holder of a No Objection Certificate desires to transfer or assign his No Objection Certificate to some other person or persons he may with the person to whom he desires to transfer or assign his No Objection Certificate shall jointly make an application in writing Form M to the licensing authority which granted the No Objection Certificate setting forth the reasons for the proposed transfer or assignment before the period of expiry of validity of the No Objection Certificate.<p></p>[2] Every application for transfer or assignment of No Objection Certificate shall be accompanied by;<p></p>[a] the No Objection Certificate in original; and<p></p>[b] sworn affidavits by the No Objection Certificate holder and the transferee or assignee to the effect that no consideration in financial or any other terms has passed between them for the transfer.<p></p>[3] The provisions of rules relating to transfer or assignment of licence shall mutatis mutandis apply to the transfer of the No Objection Certificate.<p></p>"
+            }
+			
+			],
+		"6":[
+			{	"section_id": "39",
+                "title": "39 : Appellate Authority:.",
+                "content": "The Commissioner of land Administration shall be the Appellate Authority to which an appeal under section 13 against the order or decision of the licensing authority shall be preferred. Such appeal shall be preferred within thirty days from the date of the receipt of the order or decision appealed against.<p></p>Provided that the appellate authority may admit an appeal preferred within a period of two months after the expiry of the period of thirty days aforesaid if sufficient cause is shown for not preferring the appeal within the prescribed period;<p></p>Provided that in computing the period aforesaid the time taken for obtaining a certified copy of the order appealed against shall be excluded.<p></p>"
+			},
+			{	"section_id": "40",
+                "title": "40 : Contents of Appeal.",
+                "content": "[1] An appeal preferred under rule 39 shall be submitted in duplicate in the form of a memorandum setting forth concisely the subject of appeal and shall be accompanied by the original or a certified copy of the order or decision appealed against.<p></p>[2] The appeal shall be signed by the appellant or by his authorised agent and presented to the appellate authority in person or by agent at any time during the office hours on any working day or sent by registered post acknowledgement due. The authorisation of the agent to present appeals shall be in writing and shall accompany the appeal unless the agent holds a power of attorney<p></p>"
+			},
+			{	"section_id": "41",
+                "title": "41 : Fees for Appeal.",
+                "content": "[1] A fee of rupees two hundred shall be paid in respect of each appeal and the memorandum of appeal shall be accompanied by a treasury receipt for the amount of fee due on the appeal. No court fee stamp need be affixed to the memorandum of appeal.<p></p>[2] If an appeal is not filed after the fee has been remitted into the treasury the entire fee so remitted may be refunded to the appellant. The application for such refund shall however be made by the appellant within one month from the date of remittance.<p></p>"
+			}
+			],
+		"7":[
+			{	"section_id": "42",
+                "title": "42 : Application for Revisions.",
+                "content": "[1] Every application for revision under section 14 shall be preferred within thirty days from the date of receipt of the order of the appellate authority.<p></p>Provided that the Government may admit an application for revision preferred within a period of two months after the expiry of the period of thirty days aforesaid, if sufficient cause is shown for not preferring the application for revision within the prescribed period.<p></p>Provided further that in computing the periods aforesaid, the time taken for obtaining a certified copy of the order of the appellate authority shall be excluded.<p></p>[2] An application for revision preferred under sub rule [ 1 ] shall be submitted in duplicate in the form of a memorandum setting forth concisely the grounds of objection to the order which is the subject of revision and shall be accompanied by the original or a certified copy of the order of the appellate authority.<p></p>[3] The application for revision shall be signed by the petitioner or by his authorised agent and presented to the Government at any time during the office hours on any working day or sent by registered post acknowledgement due. The authorisation of the agent to present the application for revision shall be in writing and shall accompany the application for revision unless the agent holds a power of attorney.<p></p>[4] A fee or rupees two hundred shall be paid in respect of each application for revision and memorandum of application for revision shall be accompanied by a treasury receipt for the amount of the fee due on the application for revision. No court fee stamp need to be affixed to the memorandum of application for revision.<p></p>[5] If an application for revision is not filled after the fee has been remitted into treasury, the entire fee so remitted may be refunded to the applicant. The application to such refund shall, be made by the applicant within one month from the date of remittance.<p></p>"
+            }
+			],		
+		"8":[
+			{	"section_id": "43",
+                "title": "43 :Level of Buildings.",
+                "content": "Every person who constructs reconstructs or alters or adds to a building shall comply with the  following requirements <p></p>The ground floor or the lowest floor of the building shall be at such level as will allow of the effectual drainage of that floor. It shall ordinarily be not less than half a metre above the ground or site level.<p></p>"
+			},
+			{	"section_id": "44",
+                "title": "44 : Requirements as to Road Frontage.",
+                "content": "Every building where an exhibition of film on Television Screen through Video Cassette Recorder is carried on shall be provided with-<p></p>[ 1 ] means for the effectual drainage of storm water sullage and sewage from the premises aid sufficient and suitable sanitary conveniences to the use of the building.<p></p>[2] have a road frontage on the public thoroughfare upon which the site of such building abuts:<p></p>[3] be provided with at least on three of its sides with an open space of not less than 6.10 metres in width or of such greater width as may be required by the licensing authority for parking the number of cars which would be normally attracted and for the purpose and for facilitating rescue operations in times of emergency;<p></p>Provided that in the case of a building where the licensee has provided adequate parking space for vehicles either in the basement or ground floor over which the place of exhibition is located or in the vicinity of the building acceptable to the licensing authority, there shall be an open space of not less than 3.05 metres on all sides of the building except on the rear side for the free movement of persons and to facilitate rescue operations in times of emergency.<p></p>"
+			},
+			{	"section_id": "45",
+                "title": "45 : Requirements as to drainage and sanitary conveniences .",
+                "content": "The licencee shall provide suitable means of drainage to the building and also sanitary conveniences of such description and design as may be recommended by the Executive Engineer, who has to issue the structural soundness certificate of the building, for the exclusive use of each sex separately and shall cause the same to be maintained in good order and sanitary condition<p></p>"
+			},
+			{	
+			"section_id": "46",
+                "title": "46 :Fire resisting materials.",
+                "content": "[ 1 ] The floor roof ceiling private boxes balconies galleries tiers partitions and every room lobby corridor and passage intended for the use of the public shall be constructed of fire resisting materials.<p></p>[2] No paneling of walls with wood and other combustible materials for decorative and other purposes in the building shall be permitted.<p></p>Provided that in building in which such paneling has already been effect the combustible with which the paneling has been effected with fire resistant paints.<p></p>"
+			},
+			{	
+				"section_id": "47",
+                "title": "47 : Doors.",
+                "content": "All outside door for the use of the public shall be made to open outwards and internal doors shall be so fitted as not to obstruct, when open, any gangway, passage, stairway or landing such doors when open should engage on an automatic spring.<p></p>"
+				},
+			{	"section_id": "48",
+                "title": "48 : Ventilation .",
+                "content": "The licencee shall provide sufficient and approved artificial means of ventilation whenever required by the licensing authority. Artificial means of ventilation shall include provision of exhaust fans.<p></p>"
+				},
+			{	"section_id": "49",
+                "title": "49 :Electrical installation not to be altered without approval.",
+                "content": "No addition to or alteration of any point of the electrical installation within the premises shall be made without the prior sanction of the licensing authority.<p></p>"
+				},
+			{	"section_id": "50",
+                "title": "50 : Compliance with instructions",
+                "content": "The Chief Electrical Inspector or any officer deputed by him inspecting an installation shall, if he discovers any defect therein issue written orders to the owner or person in charge for the rectification of the defects and prescribe reasonable time within which such orders should becarried out.<p></p>"
+			}
+			],
+		"9":[ 			
+			{	"section_id": "51",
+                "title": "51 : The licensee shall cause.",
+                "content": "[ 1 ] All windows and other means of ventilation in the building to be maintained in good order.<p></p>[2] Every part of such building or place to be maintained in proper sanitary condition.<p></p>[3] The walls of the buildings to be hot lime washed at least once in every six months or to be painted once in every three years or more often if so prescribed.<p></p>"
+			},
+			 {	
+			 "section_id": "52",
+                "title": "52 : Restriction on Admission of persons.",
+                "content": "[ 1 ] The licensing authority shall fix the actual number of persons to be admitted to each class of accommodation provided in the place of exhibition. The number shall be arrived at by calculating at the rate of 20 persons per 10 square metres of floor area in respect of that portion of the premises which is provided with chairs having backs and arms.<p></p>[2] In calculating the floor area under sub-rule [ 1 ] the area of the entrances the passages gangway and the stair cases shall be excluded and no part of the premises from which a person can watch the exhibition of films shall be excluded.<p></p>"
+			},
+		   {
+				 "section_id": "53",
+                "title": "53 :Rate of admission to be fixed.",
+                "content": "[ 1 ] The licensing authority shall fix the actual rates of admission to accommodation provided in the place of exhibition after taking into account the proposals of the licensee, the amenities provided in the place of exhibition, the prevailing rates of admission in similar places of exhibition in similar localities within his jurisdiction and any other relevant factor.<p></p>[2] The rates prescribed for admission in the place of exhibition shall be clearly indicated by means of a board or otherwise.<p></p>[3] The licensing authority may on application by the licensee after the rates of admission if there has been any change in the amenities provided either in that accommodation or generally in the place of exhibition or for any other valid reasons.<p></p>"
+			},
+			{
+				 "section_id": "54",
+                "title": "54 : Revision by Commissioner of Land Administration.",
+                "content": "The Commissioner of Land Administration may, either suo moto or on application by the licensee revise the order of the licensing authority under rules 35 [ 1 ] and 36 [ 1 ] after giving the licensee an opportunity of being heard.<p></p>"
+			},
+		   {	
+				 "section_id": "55",
+                "title": "55 : Seating Accommodation .",
+                "content": "The following provisions shall be observed in providing seating accommodation :-[1] Chairs shall be battened together in complete lengths.<p></p>[2] In all case there shall be an intervening space of at least 35 centimeters between the back of one seat and the front of the seat immediately behind measured between perpendicularly.<p></p>"
+			},
+			{
+				 "section_id": "56",
+                "title": "56 :Provisions for Electricity .",
+                "content": "In the premises sufficient number of approved electric lights fed from an independent source or sources which are automatically switched on in case of failure of main lighting shall be provided in the place of exhibition, gangway, passages and exits.<p></p>"
+			},
+			{
+				"section_id": "57",
+                "title": "57 : Provision for Fire Extinguishers.",
+                "content": "[1] In the place of exhibition sufficient number of portable fire-extinguishers of soda acid type and of the ten litre size shall be installed at an adequate height from the ground to the satisfaction of the licensing authority. A record regarding the maintenance of portable extinguishers shall be maintained.<p></p>[2] The licensee shall -<p></p>[i] Once in every three months empty the container of each portable fire extinguisher provided in the licensed premises, clean its nozzles and working parts stir the liquids in it and top it up, immediately record the date of having done so on a slip of paper and paste the same on the outside of such container.<p></p>[ii] Once in every year discharge each portable fire-extinguisher provided in the licensed premises and re-charge it and immediately record the date of such re-charge in durable paint on the external surface container of the fire extinguisher.<p></p>[3] Sufficient number of buckets with water shall be provided in the licensed premises. Buckets shall be painted in red with the word FIRE printed on them in large block letters in local vernacular.<p></p>"
+			}				
+        ] 
+    }
+	
+}

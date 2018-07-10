@@ -1,0 +1,619 @@
+{
+    "chapter": {
+        "1":[
+		{
+		"heading":"Chapter 1 ",
+		"title":" PRELIMINARY.<p></p>",
+		"sectionstart":" 1 ",
+		"sectionend":" 3.<p></p>"
+		}
+		],
+		
+		"2":[
+		{
+		"heading":"Chapter 2 ",
+		"title":" ATHORITIES AND OFFICERS.<p></p>",
+		"sectionstart":"4 ",
+		"sectionend":"7 .<p></p>"
+		}
+		],
+		
+		"3":[
+		{
+		"heading":"Chapter 2A ",
+		"title":" NATIONAL FUND FOR CONTROL OF DRUG ABUSE.<p></p>",
+		"sectionstart":" 7A ",
+		"sectionend":" 7B.<p></p>"
+		}
+		],
+		
+		"4":[
+		{
+		"heading":"Chapter 3 ",
+		"title":" PROHIBITION,CONTROL AND REGULATION.<p></p>",
+		"sectionstart":" 8 ",
+		"sectionend":" 14<p></p>Of the right of private defence Sec. 96 - 106 "
+		}
+		],
+		
+		"5":[
+		{
+		"heading":"Chapter 4 ",
+		"title":" OFFENCES AND PENALTIES.<p></p>",
+		"sectionstart":" 15 ",
+		"sectionend":" 40.<p></p>"
+		}
+		],
+		
+		"6":[
+		{
+		"heading":"Chapter 5 ",
+		"title":" PROCEDURE.<p></p>",
+		"sectionstart":" 41 ",
+		"sectionend":" 68.<p></p>"
+		}
+		],
+		
+		"7":[
+		{
+		"heading":"Chapter 5A ",
+		"title":"  FORFEITURE OF PROPERTY DERIVED FROM,OR USED IN,ILLICIT TRAFFIC.<p></p>",
+		"sectionstart":" 41 ",
+		"sectionend":" 68.<p></p>"
+		}
+		],
+		
+		"8":[
+		{
+		"heading":"Chapter 6 ",
+		"title":" MISCELLANEOUS.<p></p>",
+		"sectionstart":" 69 ",
+		"sectionend":" 83.<p></p>"
+		}
+		]
+		
+		
+		
+	},
+		
+	"section": {
+           "1": [
+			
+				{
+				"section_id":"1",
+				"title":"1 :Short title, extent and commencement.",
+				"content":"(1) This Act may be called The Narcotic Drugs and Psychotropic Substances Act, 1985.<br></br>\t(2) It extends to the whole of India and it applies also'<br></br>\t\t(a) to all citizens of India outside India;<br></br>\t\t(b) to all persons on ships and aircrafts registered in India,<p></p>wherever they may be.<br></br>\t(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act and for different States and any reference in any such provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State.<p></p>"
+				},
+				
+				{
+				"section_id":"2",
+				"title":"2 :Definitions.",
+				"content":"In this Act, unless the context otherwise requires,'<br></br>\t(i) 'addict' means a person who has dependence on any narcoticdrug or psychotropic substance;<br></br>\t(ii) 'Board' means the Central Board of Excise and Customs constituted under the Central Board of Revenue Act, 1963 (54 of 1963);<br></br>\t(iii) 'cannabis (hemp)' means'<br></br>\t\t(a) charas, that is, the separated resin, in whatever form whether crude or purified, obtained from the cannabis plant and also includes concentrated preparation and resin known as hashish oil or liquid hashish;<br></br>\t\t(b) ganja, that is, the flowering of fruiting tops of the cannabis plant (excluding the seeds and leaves when not accompanied by the tops), by whatever, name they may be known or designated; and<br></br>\t\t(c) any mixture, with or without any neutral material, of any of the above forms of cannabis or any drink prepared therefrom;<br></br>\t(iv) 'cannabis plant' means any plant of the genus cannabis;<br></br>\t(v) 'coca derivative' means'<br></br>\t\t(a) crude cocaine, that is, any extract of coca leaf which can be used, directly or indirectly, for the manufacture of cocaine;<br></br>\t\t(b) ecgonine and all the derivatives of ecgonine from which it can be recovered; <br></br>\t\t(c) cocaine, that is, methyl ester of benzoyl ecgonine and its salts; and<br></br>\t(vi) 'coca leaf' means'<br></br>\t\t(a) the leaf of the coca plant except a leaf from which all ecgonine, cocaine and any other ecgonine alkaloids have been removed;<br></br>\t\t(b) any mixture thereof with or without any neutral material, but does not include any preparation containing not more than 0.1 per cent. of cocaine;<br></br>\t(vii) 'coca plant' means the plant of any species of the genus Erythroxylon;<br></br>\t(viia) 'commercial quantity', in relation to narcotic drugs and psychotropic substances, means any quantity greater than the quantity specified by the Central Government by notification in the Official Gazette;<br></br>\t(viib) 'controlled delivery' means the technique of allowing illicit or suspect consignments of narcotic drugs, psychotropic substances, controlled substances or substances substituted for them to pass out of, or through or into the territory of India with the knowledge and under the supervision of an officer empowered in this behalf or duly authorised under section 50-A with a view to identifying the persons involved in the commission of an offence under this Act;<br></br>\t(viic) 'corresponding law' means any law corresponding to the provisions of this Act;<br></br>\t(viid) 'controlled substance' means any substance which the Central Government may, having regard to the available information as to its possible use in the production or manufacture of narcotic drugs or psychotropic substances or to the provisions of any International Convention, by notification in the Official Gazette, declare to be a controlled substance;<br></br>\t(viii) 'conveyance' means a conveyance of any description whatsoever and includes any aircraft, vehicle or vessel;<br></br>\t(viiia) 'illicit traffic', in relation to narcotic drugs and psychotropic substances, means'<br></br>\t\t(i) cultivating any coca plant or gathering any portion of coca plant;<br></br>\t\t(ii) cultivating the opium poppy or any cannabis plant;<br></br>\t\t(iii) engaging in the production, manufacture, possession, sale, purchase, transportation, warehousing concealment, use or consumption, import inter-State, export inter-State, import into India, export from India or transhipment, of narcotic drugs or psychotropic substances;<br></br>\t\t(iv) dealing in any activities in narcotic drugs or psychotropic substances other than those referred to in sub-clauses (i) to (iii); or<br></br>\t\t(v) handling or letting out any premises for the carrying on of any of the activities referred to in sub-clauses (i) to (iv),other than those permitted under this Act, or any rule or order made, or any condition of any licence, term or authorisation issued, thereunder, and includes'<br></br>\t\t\t(1) financing, directly or indirectly, any of the aforementioned activities;<br></br>\t\t\t(2) abetting or conspiring in the furtherance of or in support of doing any of the aforementioned activities; and<br></br>\t\t\t(3) harbouring persons engaged in any of the aforementioned activities;<br></br>\t(ix) 'International Convention' means'<br></br>\t\t(a) the Single Convention on Narcotic Drugs, 1961 adopted by the United Nations Conference at New York in March, 1961;<br></br>\t\t(b) the Protocol, amending the Convention mentioned in sub-clause (a), adopted by the United Nations Conference at Geneva in March, 1972;<br></br>\t\t(c) the Convention on Psychotropic Substances, 1971 adopted by the United Nations Conference at Vienna in February, 1971; and <br></br>\t\t(d) any other international convention, or protocol or other instrument amending an international convention, relating to narcotic drugs or psychotropic substances which may be ratified or acceded to by India after the commencement of this Act;<p></p>\t<p></p>\t(x) 'manufacture', in relation to narcotic drugs or psychotropic substances, includes'<br></br>\t\t(1) all processes other than production by which such drugs or substances may be obtained; <br></br>\t\t(2) refining of such drugs or substances;<br></br>\t\t(3) transformation of such drugs or substances; and <br></br>\t\t(4) making of preparation (otherwise than in a pharmacy on prescription) with or containing such drugs or substances;<br></br>\t(xi) 'manufactured drug' means'<br></br>\t\t(a) all coca derivatives medicinal cannabis, opium derivatives and poppy straw concentrate;<br></br>\t\t(b) any other narcotic substance or preparation which the Central Government may, having regard to the available information as to its nature or to a decision, if any, under any International Convention, by notification in the Official Gazette, declare to be a manufactured drug, but does not include any narcotic substance or preparation which the Central Government may, having regard to the available information as to its nature or to a decision, if any, under any International Convention, by notification in the Official Gazette, declare not to be a manufactured drug;<br></br>\t(xii) 'medicinal cannabis', that is, medicinal hemp, means any extract or tincture of cannabis (hemp);<br></br>\t(xiii) 'Narcotics Commissioner' means the Narcotics Commissioner appointed under section 5;<br></br>\t(xiv) 'narcotic drug' means coca leaf, cannabis (hemp), opium poppy straw and includes all manufactured drugs;<br></br>\t(xv) 'opium' means'<br></br>\t\t(a) the coagulated juice of the opium poppy; and <br></br>\t\t(b) any mixture, with or without any neutral material, of the coagulated juice of the opium poppy,<br></br>\tbut does not include any preparation containing not more than 0.2 per cent. of morphine;<br></br>\t(xvi) 'opium derivative' means'<br></br>\t\t(a) medicinal opium, that is, opium which has undergone the processes necessary to adapt it for medicinal use in accordance with the requirements of the Indian Pharmacopoeia or any other pharmacopoeia notified in this behalf by the Central Government, whether in powder form or granulated or otherwise or mixed with neutral materials; <br></br>\t\t(b) prepared opium, that is, any product of opium obtained by any series of operations designed to transform opium into an extract suitable for smoking and the dross or other residue remaining after opium is smoked;<br></br>\t\t(c) phenanthrene alkaloids, namely, morphine, codeine, the baine and their salts;<br></br>\t\t(d) diacetylmorphine, that is the alkaloid also known as dia-morphine or heroin and its salts; and <br></br>\t\t(e) all preparations containing more than 0.2 per cent. of morphine or containing any diacetylmorphine;<br></br>\t(xvii) 'opium poppy' means'<br></br>\t\t(a) the plant of the species Papaversomniferum L; and<br></br>\t\t(b) the plant of any other species of Papaver from which opium or any phenanthrene alkaloid can be extracted and which the Central Government may, by notification in the Official Gazette, declare to be opium poppy for the purposes of this Act;<br></br>\t(xviii) 'poppy straw' means all parts (except the seeds) of the opium poppy after harvesting whether in their original form or cut, crushed or powdered and whether or not juice has been extracted therefrom;<br></br>\t(xix) 'poppy straw concentrate' means the material arising when poppy straw has entered into a process for the concentration of its alkaloids;<br></br>\t(xx) 'preparation', in relation to a narcotic drug or psychotropic substance means any one or more such drugs or substances in dosage form or any solution or mixture, in whatever physical state, containing one or more such drugs or substances;<br></br>\t(xxi) 'prescribed' means prescribed by rules made under this Act;<br></br>\t(xxii) 'production' means the separation of opium poppy straw, coca leaves or cannabis from the plants from which they are obtained;<br></br>\t(xxiii) 'psychotropic substance' means any substance, natural or synthetic, or any natural material or any salt or preparation of such substance or material included in the list of psychotropic substances specified in the Schedule;<br></br>\t(xxiiia) 'small quantity', in relation to narcotic drugs and psychotropic substances, means any quantity lesser than the quantity specified by the Central Government by notification in the Official Gazette;<br></br>\t(xxiv) 'to import inter-State' means to bring into a State or Union territory in India from another State or Union territory in India;<br></br>\t(xxv) 'to import into India', with its grammatical variations and cognate expressions, means to bring into India from a place outside India and includes the bringing into any port or airport or place in India of a narcotic drug or a psychotropic substance intended to be taken out of India without being removed from the vessel, aircraft, vehicle or any other conveyance in which it is being carried.<br></br>\tExplanation.'For the purposes of this clause and clause (xxvi), 'India' includes the territorial waters of India;<br></br>\t(xxvi) 'to export from India', with its grammatical variations and cognate expressions, means to take out of India to a place outside India;<br></br>\t(xxvii) 'to export inter-State' means to take out of a State or Union territory in India to another State or Union territory in India;<br></br>\t(xxviii) 'to transport' means to take from one place to another within the same State or Union territory;<br></br>\t(xxviiia) 'use' in relation to narcotic drugs and psychotropic substances, means any kind of use except personal consumption;<br></br>\t(xxix) words and expressions used herein and not defined but defined in the Code of Criminal Procedure, 1973 (2 of 1974) have the meanings respectively assigned to them in that Code.<br></br>\tExplanation.'For the purposes of clauses (v), (vi), (xv) and (xvi) the percentages in the case of liquid preparations shall be calculated on the basis that a preparation containing one per cent. of a substance means a preparation in which one gram of substance if solid, or one mililitre of substance, if liquid, is contained in every one hundred mililitre of the preparation and so on in proportion for any greater or less percentage:<br></br>\tProvided that the Central Government may, having regard to the developments in the field of methods of calculating percentages in liquid preparations prescribe, by rules, any other basis which it may deem appropriate for such calculation.<p></p>"
+				},
+				
+				{
+				"section_id":"3",
+				"title":"3 :Power to add to or omit from the list of psychotropic substances.",
+				"content":"The Central Government may, if satisfied that it is necessary or expedient so to do on the basis of'<br></br>\t(a) the information and evidence which has become available to it with respect to the nature and effects of, and the abuse or the scope for abuse of, any substance (natural or synthetic) or natural material or any salt or preparation of such substance or material; and <br></br>\t(b) the modifications or provisions (if any) which have been made to, or in, any International Convention with respect to such substance, natural material or salt or preparation of such substance or material, by notification in the Official Gazette, add to, or, as the case may be, omit from, the list of psychotropic substances specified in the Schedule such substance or natural material or salt or preparation of such substance or material<p></p>"
+				}
+			],
+			
+			"2":[
+				{
+				"section_id":"4",
+				"title":"4 :Central Government to take measures for preventing and combating abuse of and illicit traffic in narcotic drugs, etc.",
+				"content":"(1) Subject to the provisions of the Act, the Central Government shall take all such measures as it deems necessary or expedient for the purpose of preventing and combating abuse of narcotic drugs and psychotropic substances and the illicit traffic therein.<br></br>\t(2) In particular and without prejudice to the generality of the provisions of sub-section (1), the measures which the Central Government may take under that sub-section include measures with respect to all or any of the following matters, namely:'<br></br>\t\t(a) co-ordination of actions by various officers, State Governments and other authorities'<br></br>\t\t\t(i) under this Act, or<br></br>\t\t\t(ii) under any other law for the time being in force in connection with the enforcement of the provisions of this Act;<br></br>\t\t(b) obligations under the International Conventions;<br></br>\t\t(c) assistance to the concerned authorities in foreign countries and concerned international organisations with a view to facilitating co-ordination and universal action for prevention and suppression of illicit traffic in narcotic drugs and psychotropic substances;<br></br>\t\t(d) identification, treatment, education, after care, rehabilitation and social re-integration of addicts;<br></br>\t\t(e) such other matters as the Central Government deems, necessary or expedient for the purpose of securing the effective implementation of the provisions of this Act and preventing and combating the abuse of narcotic drugs and psychotropic substances and illicit traffic therein.<br></br>\t(3) The Central Government may if it considers it necessary or expedient so to do for the purposes of this Act, by order, published in the Official Gazette, constitute an authority or a hierarchy of authorities by such name or names as may be specified in the order for the purpose of exercising such of the powers and functions of the Central Government under this Act and for taking measures with respect to such of the matters referred to in sub-section (2) as may be mentioned in the order, and subject to the supervision and control of the Central Government and the provisions of such order, such authority or authorities may exercise the powers and take the measures so mentioned in the order as if such authority or authorities had been empowered by this Act to exercise those powers and take such measures<p></p>"
+				},
+				
+				{
+				"section_id":"5",
+				"title":"5 :Officers of Central Government.",
+				"content":"(1) Without prejudice to the provisions of sub-section (3) of section 4, the Central Government shall appoint a Narcotics Commissioner and may also appoint such other officers with such designations as it thinks fit for the purposes of this Act.<br></br>\t(2) The Narcotics Commissioner shall, either by himself or through officers subordinate to him, exercise all powers and perform all functions relating to the superintendence of the cultivation of the opium poppy and production of opium and shall also exercise and perform such other powers and functions as may be entrusted to him by the Central Government.<br></br>\t(3) The officers appointed under sub-section (1) shall be subject to the general control and direction of the Central Government, or, if so directed by that Government, also of the Board or any other authority or officer<p></p>"
+				},
+				
+				{
+				"section_id":"6",
+				"title":"6 :The Narcotic Drugs and Psychotropic Substances Consultative Committee.",
+				"content":"(1) The Central Government may constitute, by notification in the Official Gazette, an advisory committee to be called 'The Narcotic Drugs and Psychotropic Substances Consultative Committee' (hereafter in this section referred to as the Committee) to advise the Central Government on such matters relating to the administration of this Act as are referred to it by that Government from time to time.<br></br>\t(2) The Committee shall consist of a Chairman and such other members, not exceeding twenty, as may be appointed by the Central Government.<br></br>\t(3) The Committee shall meet when required to do so by the Central Government and shall have power to regulate its own procedure.<br></br>\t(4) The Committee may, if it deems it necessary so to do for the efficient discharge of any of its functions, constitute one or more sub-committees and may appoint to any such sub-committee, whether generally or for the consideration of any particular matter, any person (including a non-official) who is not a member of the Committee.<br></br>\t(5) The term of office of, the manner of filling casual vacancies in the offices of and the allowances, if any, payable to, the Chairman and other members of the Committee, and the Conditions and restrictions subject to which the committee may appoint a person who is not a member of the Committee as a member of any of its sub-committees, shall be such as may be prescribed by rules made by the Central Government.<p></p>"
+				},
+				
+				{
+				"section_id":"7",
+				"title":"7 :Officers of State Government.",
+				"content":"(1) The State Government may appoint such officers with such designations as it thinks fit for the purposes of this Act.<br></br>\t(2) The officers appointed under sub-section (1) shall be subject to the general control and direction of the State Government, or, if so directed by that Government, also of any other authority or officer<p></p>"
+				}
+			],
+			
+			"2A":[
+			
+				{
+				"section_id":"7A",
+				"title":"7A :National Fund for Control of Drug Abuse.",
+				"content":"(1) The Central Government may, by notification in the Official Gazette, constitute a Fund to be called the National Fund for Control of Drug Abuse (hereafter in this Chapter referred to as the Fund) and there shall be credited thereto'<br></br>\t\t(a) an amount which the Central Government may, after due appropriation made by Parliament by law in this behalf, provide;<br></br>\t\t(b) the sale proceeds of any property forfeited under Chapter V-A;<br></br>\t\t(c) any grants that may be made by any person or institution;<br></br>\t\t(d) any income from investment of the amounts credited to the Fund under the aforesaid provisions.<br></br>\t\t(2) The Fund shall be applied by the Central Government to meet the expenditure incurred in connection with the measures taken for'<br></br>\t\t(a) combating illicit traffic in narcotic drugs, psychotropic substances or controlled substances;<br></br>\t\t(b) controlling the abuse of narcotic drugs and psychotropic substances;<br></br>\t\t(c) identifying, treating, rehabilitating addicts;<br></br>\t\t(d) preventing drug abuse;<br></br>\t\t(e) educating public against drug abuse; and<br></br>\t\t(f) supplying drugs to addicts where such supply is a medical necessity.<br></br>\t\t(3) The Central Government may constitute a Governing Body as it thinks fit to advise that Government and to sanction money out of the said Fund subject to the limit notified by the Central Government in the Official Gazette.<br></br>\t\t(4) The Governing Body shall consist of a Chairman (not below the rank of an Additional Secretary to the Central Government) and such other members not exceeding six as the Central Government may appoint.<br></br>\t\t(5) The Governing Body shall have the power to regulate its own procedure.<p></p>"
+				},
+				
+				{
+				"section_id":"7B",
+				"title":"7B :Annual report of activities financed under the Fund.",
+				"content":"The Central Government shall, as soon as may be, after the end of each financial year, cause to be published in the Official Gazette, a report giving an account of the activities financed under section 7-A during the financial year, together with a statement of accounts.<p></p>"
+				}
+				
+			],
+		
+		"3":[
+				
+				{
+				"section_id":"8",
+				"title":"8 :Prohibition of certain operations.",
+				"content":"No person shall'<br></br>\t(a) cultivate any coca plant or gather any portion of coca plant; or<br></br>\t(b) cultivate the opium poppy or any cannabis plant; or <br></br>\t(c) Produce, manufacture, possess, sell, purchase, transport, warehouse, use, consume, import inter-State, export inter-State, import into India, export from India or tranship any narcotic drug or psychotropic substance,<br></br>except for medical or scientific purposes and in the manner and to the extent provided by the provisions of this Act or the rules or orders made thereunder and in a case where any such provision, imposes any requirement by way of licence, permit or authorisation also in accordance with the terms and conditions of such licence, permit or authorisation: <br></br>\tProvided that, and subject to the other provisions of this Act and the rules made thereunder, the prohibition against the cultivation of the cannabis plant for the production of ganjaor the production, possession, use, consumption, purchase, sale, transport, warehousing import inter-State and export inter-State of ganjafor any purpose other than medical and scientific purpose shall take effect only from the date which the Central Government may, by notification in the Official Gazette, specify in this behalf:<br></br>\tProvided further that nothing in this section shall apply to the export of poppy straw for decorative purposes.<p></p>"
+				},
+				
+				{
+				"section_id":"9",
+				"title":"9 :Power of Central Government to permit, control and regulate.",
+				"content":"(1) Subject to the provisions of section 8, the Central Government may, by rules'<br></br>\t\t(a) permit and regulate'<br></br>\t\t\t(i) the cultivation, or gathering of any portion (such cultivation or gathering being only on account of the Central Government) of coca plant, or the production, possession, sale, purchase, transport import inter-State, export inter-State, use or consumption of coca leaves;<br></br>\t\t\t(ii) the cultivation (such cultivation being only on account of Central Government) of the opium poppy;<br></br>\t\t\t(iii) the production and manufacture of opium and production of poppy straw;<br></br>\t\t\t(iv) the sale of opium and opium derivatives from the Central Government factories for export from India or sale to State Government or to manufacturing chemists;<br></br>\t\t\t(v) the manufacture or manufactured drugs (other than prepared opium) but not including manufacture of medicinal opium or any preparation containing any manufactured drug from materials which the maker is lawfully entitled to possess;<br></br>\t\t\t(vi) the manufacture, possession, transport, import inter-State, export inter-State, sale, purchase, consumption or use of psychotropic substances;<br></br>\t\t\t(vii) the import into India and export from India and transhipment of narcotic drugs and psychotropic substances;<br></br>\t\t(b) prescribe any other matter requisite to render effective the control of the Central Government over any of the matters specified in clause (a).<br></br>\t(2) In particular and without prejudice to the generality of the foregoing power, such rules may'<br></br>\t\t(a) empower the Central Government to fix from time to time the limits within which licences may be given for the cultivation of the opium poppy;<br></br>\t\t(b) require that all opium, the produce of land cultivated with the opium poppy, shall be delivered by the cultivators to the officers authorised in this behalf by the Central Government;<br></br>\t\t(c) prescribe the forms and conditions of licences for cultivation of the opium poppy and for production and manufacture of opium; the fees that may be charged therefor the authorities by which such licences may be granted, withheld, refused or cancelled and the authorities before which appeals against the orders of withholding, refusal or cancellation of licences shall lie;<br></br>\t\t(d) prescribe that opium shall be weighed, examined and classified according to its quality and consistence by the officers authorised in this behalf by the Central Government in the presence of the cultivator at the time of delivery by the cultivator;<br></br>\t\t(e) empower the Central Government to fix from time to time the price to be paid to the cultivators for the opium delivered; <br></br>\t\t(f) provide for the weighment, examination and classification, according to the quality and consistence, of the opium received at the factory and the deductions from or additions (if any) to the standard price to be made in accordance with the result of such examination; and the authorities by which the decisions with regard to the weighment, examination, classification, deductions or additions shall be made and the authorities before which appeals against such decisions shall lie;<br></br>\t\t(g) require that opium delivered by a cultivator, if found as a result of examination in the Central Government factory to be adulterated, may be confiscated by the officers authorised in this behalf;<br></br>\t\t(h) prescribe the forms and conditions of licences for the manufacture of manufactured drugs, the authorities by which such licences may be granted and the fees that may be charged therefor;<br></br>\t\t(i) prescribe the forms and conditions of licences or permits for the manufacture, possession, transport, import inter-State, export inter-State, sale, purchase, consumption or use of psychotropic substances, the authorities by which such licences or permits may be granted and the fees that may be charged therefor;<br></br>\t\t(j) prescribe the ports and other places at which any kind of narcotic drugs or psychotropic substances may be imported into India or exported from India or transhipped; the forms and conditions of certificates, authorisations or permits, as the case may be, for such import, export or transhipment; the authorities by which such certificates, authorisations or permits may be granted and the fees that may be charged therefor<p></p>"
+				},
+				
+				{
+				"section_id":"10",
+				"title":"10 :Power of State Government to permit, control and regulate.",
+				"content":"(1) Subject to the provisions of section 8, the State Government may, by rules'<br></br>\t\t(a) permit and regulate'<br></br>\t\t\t(i) the possession, transport, import inter-State, export inter-State warehousing, sale, purchase, consumption and use of poppy straw;<br></br>\t\t\t(ii) the possession, transport, import inter-State, export inter-State, sale purchase, consumption and use of opium;<p></p>\t\t\t(iii) the cultivation of any cannabis plant, production, manufacture, possession, transport, import inter-State, export inter-State, sale, purchase, consumption or use of cannabis (excluding charas);<br></br>\t\t\t(iv) the manufacture of medicinal opium or any preparation containing any manufactured drug from materials which the maker is lawfully entitled to possess;<br></br>\t\t\t(v) the possession, transport, purchase, sale, import inter-State, export inter-State, use or consumption of manufactured drugs other than prepared opium and of coca leaf and any preparation containing any manufactured drug;<br></br>\t\t\t(vi) the manufacture and possession of prepared opium from opium lawfully possessed by an addict registered with the State Government on medical advice for his personal consumption:<br></br>\tProvided that save in so far as may be expressly provided in the rules made under sub-clauses (iv) and (v), nothing in section 8 shall apply to the import inter-State, export inter-State, transport, possession, purchase, sale, use or consumption of manufactured drugs which are the property and in the possession of the Government.<br></br>\tProvided further that such drugs as are referred to in the preceding proviso shall not be sold or otherwise delivered to any person who, under the rules made by the State Government under the aforesaid sub-clauses, is not entitled to their possession;<br></br>\t\t(b) prescribe any other matter requisite to render effective the control of the State Government over any of the matters specified in clause (a).<br></br>\t(2) In particular and without prejudice to the generality of the foregoing power, such rules may'<br></br>\t\t(a) empower the State Government to declare any place to be a warehouse wherein it shall be the duty of the owners to deposit all such poppy straw as is legally imported inter-State and is intended for export inter-State or export from India; to regulate the safe custody of such poppy straw warehoused and the removal of such poppy straw for sale or export inter-State or export from India; to levy fees for such warehousing and to prescribe the manner in which and the period after which the poppy straw warehoused shall be disposed of in default of payment of fees;<br></br>\t\t(b) provide that the limits within which licences may be given for the cultivation of any cannabis plant shall be fixed from time to time by or under the orders of the State Government;<br></br>\t\t(c) provide that only the cultivators licensed by the prescribed authority of the State Government shall be authorised to engage in cultivation of any cannabis plant;<br></br>\t\t(d) require that all cannabis, the produce of land cultivated with cannabis plant, shall be delivered by the cultivators to the officers of the State Government authorised in this behalf;<br></br>\t\t(e) empower the State Government to fix from time to time, the price to be paid to the cultivators for the cannabis delivered;<br></br>\t\t(f) prescribe the forms and conditions of licences or permits for the purposes specified in sub-clauses (i) to (vi) of clause (a) of sub-section (1) and the authorities by which such licences or permits may be granted and the fees that may be charged therefor<p></p>"
+				},
+				
+				{
+				"section_id":"11",
+				"title":"11 :Narcotic drugs and psychotropic substances, etc., not liable to distress or attachment.",
+				"content":"Notwithstanding anything to the contrary contained in any law or contract, no narcotic drug, psychotropic substance, coca plant, the opium poppy or cannabis plant shall be liable to be distrained or attached by any person for the recovery of any money under any order or decree of any Court or authority or otherwise.<p></p>"
+				},
+				
+				{
+				"section_id":"12",
+				"title":"12 :Restrictions over external dealings in narcotic drugs and psychotropic substances.",
+				"content":"No person shall engage in or control any trade whereby a narcotic drug or psychotropic substance is obtained outside India and supplied to any person outside India save with the previous authorisation of the Central Government and subject to such conditions as may be imposed by that Government in this behalf<p></p>"
+				},
+				
+				{
+				"section_id":"13",
+				"title":"13 :Special provisions relating to coca plant and coca leaves for use in the preparation of flavouring agent.",
+				"content":"Notwithstanding anything contained in section 8, the Central Government may permit, with or without conditions, and on behalf of Government, the cultivation of any coca plant or gathering of any portion thereof or the production, possession, sale, purchase, transport, import inter-State, export inter-State or import into India of coca leaves for use in the preparation of any flavouring agent which shall not contain any alkaloid and to the extent necessary for such use.<p></p>"
+				},
+				
+				{
+				"section_id":"14",
+				"title":"14 :Special provision relating to cannabis.",
+				"content":"Notwithstanding anything contained in section 8, Government may, by general or special order and subject to such conditions as may be specified in such order, allow cultivation of any cannabis plant for industrial purposes only of obtaining fibre or seed or for horticultural purposes<p></p>"
+				}
+				
+			],
+			
+			"5":[
+				
+				{
+				"section_id":"15",
+				"title":"15 :Punishment for contravention in relation to poppy straw.",
+				"content":"Whoever, in contravention of any provisions of this Act or any rule or order made or condition of a licence granted thereunder, produces, possesses, transports, imports inter-State, exports inter-State, sells, purchases, uses or omits to warehouse poppy straw or removes or does any act in respect of warehoused poppy straw shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t(b) where the contravention involves quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years, and with fine which may extend to one lakh rupees;<br></br>\t(c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees<p></p>"
+				},
+				
+				{
+				"section_id":"16",
+				"title":"16 :Punishment for contravention in relation to coca plant and coca leaves.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder, cultivates any coca plant or gathers any portion of a coca plant or produces, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses coca leaves shall be punishable with rigorous imprisonment for a term which may extend to ten years, or with fine which may extend to one lakh rupees<p></p>"
+				},
+				
+				{
+				"section_id":"17",
+				"title":"17 :Punishment for contravention in relation to prepared opium.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses prepared opium shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both; or<br></br>\t(b) where the contravention involves quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years and with fine which may extend to one lakh rupees; or<br></br>\t(c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees<p></p>"
+				},
+				
+				{
+				"section_id":"18",
+				"title":"18 :Punishment for contravention in relation to opium poppy and opium.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder, cultivates the opium poppy or produces, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses opium shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t(b) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees;<br></br>\t(c) in any other case, with rigorous imprisonment which may extend to ten years and with fine which may extend to one lakh rupees<p></p>"
+				},
+				
+				{
+				"section_id":"19",
+				"title":"19 :Punishment for embezzlement of opium by cultivator.",
+				"content":"Any cultivator licensed to cultivate the opium poppy on account of the Central Government who embezzles or otherwise illegally disposes of the opium produced or any part thereof, shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees.<p></p>"
+				},
+				
+				{
+				"section_id":"20",
+				"title":"20 :Punishment for contravention in relation to cannabis plant and cannabis.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder:'<br></br>\t(a) cultivates any cannabis plant; or<br></br>\t(b) produces, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses cannabis, shall be punishable,'<br></br>\t\t(i) where such contravention relates to clause (a) with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to one lakh rupees; and<br></br>\t\t(ii) where such contravention relates to sub-clause (b),'<br></br>\t\t\t(A) and involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t\t\t(B) and involves quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years, and with fine which may extend to one lakh rupees;<br></br>\t\t\t(C) and involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees and which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment,impose a fine exceeding two lakh rupees.<p></p>"
+				},
+				
+				{
+				"section_id":"21",
+				"title":"21 :Punishment for contravention in relation to manufactured drugs and preparations.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses any manufactured drug or any preparation containing any manufactured drug shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t(b) where the contravention involves quantity, lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years, and with fine which may extend to one lakh rupees;<br></br>\t(c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees.<p></p>"
+				},
+				
+				{
+				"section_id":"22",
+				"title":"22 :Punishment for contravention in relation to psychotropic substances.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses any psychotropic substance shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t(b) where the contravention involves quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years, and with fine which may extend to one lakh rupees;<br></br>\t(c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees.<p></p>"
+				},
+				
+				{
+				"section_id":"23",
+				"title":"23 :Punishment for illegal import into India, export from India or transhipment of narcotic drugs and psychotropic substances.",
+				"content":"Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence or permit granted or certificate or authorisation issued thereunder, imports into India or exports from India or tranships any narcotic drug or psychotropic substance shall be punishable,'<br></br>\t(a) where the contravention involves small quantity, with rigorous imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;<br></br>\t(b) where the contravention involves quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years, and with fine which may extend to one lakh rupees;<br></br>\t(c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees.<p></p>"
+				},
+				
+				{
+				"section_id":"24",
+				"title":"24 :Punishment for external dealings in narcotic drugs and psychotropic substances in contravention of section 12.",
+				"content":"Whoever engages in or controls any trade whereby a narcotic drug or a psychotropic substance is obtained outside India and supplied to any person outside India without the previous authorisation of the Central Government or otherwise than in accordance with the conditions (if any) of such authorisation granted under section 12, shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees but may extend to two lakh rupees:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees<p></p>"
+				},
+				
+				{
+				"section_id":"25",
+				"title":"25 :Punishment for allowing premises, etc., to be used for commission of an offence.",
+				"content":"Whoever, being the owner or occupier or having the control or use of any house, room, enclosure, space, place, animal or conveyance, knowingly permits it to be used for the commission by any other person of an offence punishable under any provision of this Act, shall be punishable with the punishment provided for that offence<p></p>"
+				},
+				
+				{
+				"section_id":"26",
+				"title":"26 :Punishment for certain act by licensee or his servants.",
+				"content":"If the holder of any licence, permit or authorisation granted under this Act or any rule or order made thereunder or any person in his employ and acting on his behalf'<br></br>\t(a) omits, without any reasonable cause, to maintain accounts or to submit any return in accordance with the provisions of this Act, or any rule made thereunder;<br></br>\t(b) fails to produce without any reasonable cause such licence, permit or authorisation on demand of any officer authorised by the Central Government or State Government in this behalf; <br></br>\t(c) keeps any accounts or makes any statement which is false or which he knows or has reasons to believe to be incorrect; or<p></p>"
+				},
+				
+				{
+				"section_id":"27",
+				"title":"27 :Punishment for consumption of any narcotic drug or psychotropic substance.",
+				"content":"Whoever consumes any narcotic drug or psychotropic substance shall be punishable,'<p></p>\t(a) where the narcotic drug or psychotropic substance consumed is cocaine, morphine, diacetyl-morphine or any other narcotic drug or any psychotropic substance as may be specified in this behalf by the Central Government by notification in the Official Gazette, with rigorous imprisonment for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both; and<br></br>\t(b) where the narcotic drug or psychotropic substance consumed is other than those specified in or under clause (a), with imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both<p></p>"
+				},
+				
+				{
+				"section_id":"28",
+				"title":"28 :Punishment for attempts to commit offences.",
+				"content":"Whoever attempts to commit any offence punishable under this Chapter or to cause such offence to be committed and in such attempt does any act towards the commission of the offence shall be punishable with the punishment provided for the offence<p></p>"
+				},
+				
+				{
+				"section_id":"29",
+				"title":"29 :Punishment for abetment and criminal conspiracy.",
+				"content":"(1) Whoever abets, or is a party to a criminal conspiracy to commit, an offence punishable under this Chapter, shall, whether such offence be or be not committed in consequence of such abetment or in pursuance of such criminal conspiracy, and notwithstanding anything contained in section 116 of the Indian Penal Code, be punishable with the punishment provided for the offence. <br></br>\t\t(2) A person abets, or is a party to a criminal conspiracy to the commit, as offence, within the meaning of this section, who, in India abets or is a party to the criminal conspiracy to the commission of any act in a place without and beyond India which'<br></br>\t\t(a) would constitute an offence if committed within India; or <br></br>\t\t(b) under the laws of such place, is an offence relating to narcotic drugs or psychotropic substances having all the legal conditions required to constitute it such an offence the same as or analogous to the legal conditions required to constitute it an offence punishable under this Chapter, if committed within India<p></p>"
+				},
+				
+				{
+				"section_id":"30",
+				"title":"30 :Preparation.",
+				"content":"If any person makes preparation to do or omits to do anything which constitutes an offence punishable under any of the provisions of sections 19, 24 and 27-A and for offences involving commercial quantity of any narcotic drug or psychotropic substance and from the circumstances of the case it may be reasonably inferred that he was determined to carry out his intention to commit the offence but had been prevented by circumstances independent of his will, he shall be punishable with rigorous imprisonment for a term which shall not be less than one-half of the minimum term (if any), but which may extend to one-half of the maximum term, of imprisonment with which he would have been punishable in the event of his having committed such offence, and also with fine which shall not be less than one-half of the minimum amount (if any), of fine with which he would have been punishable, but which may extend to one-half of the maximum amount of fine with which he would have ordinarily (that is to say in the absence of special reasons) been punishable, in the event aforesaid:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a higher fine<p></p>"
+				},
+				
+				{
+				"section_id":"31",
+				"title":"31 :Enhanced punishment for offences after previous conviction.",
+				"content":"(1) If any person who has been convicted of the commission of, or attempt to commit, or abetment of, or criminal conspiracy to commit, any of the offences punishable under this Act is subsequently convicted of the commission of, or attempt to commit, or abetment of, or criminal conspiracy to commit, an offence punishable under this Act with the same amount of punishment shall be punished for the second and every subsequent offence with rigorous imprisonment for a term which may extend to one-half of the maximum term of imprisonment, and also be liable to fine which shall extend to one-half of the maximum amount of fine.<br></br>\t\t\t(2) Where the person referred to in sub-section (1) is liable to be punished with a minimum term of imprisonment and to a minimum amount of fine, the minimum punishment for such person shall be one-half of the minimum term of imprisonment and one-half of the minimum amount of fine:<br></br>\tProvided that the Court may, for reasons to be recorded in the judgment, impose a fine exceeding the fine for which a person is liable.<br></br>\t\t\t(3) Where any person is convicted by a competent Court of criminal jurisdiction outside India under any corresponding law, such person, in respect of such conviction, shall be dealt with for the purposes of sub-sections (1) and (2) as if he had been convicted by a Court in India<p></p>"
+				},
+				
+				{
+				"section_id":"32",
+				"title":"32 :Punishment for offence for which no punishment is provided.",
+				"content":"Whoever contravenes any provision of this Act or any rule or order made, or any condition of any licence, permit or authorisation issued thereunder for which no punishment is separately provided in this Chapter, shall be punishable with imprisonment for a term which may extend to six months, or with fine, or with both<p></p>"
+				},
+				
+				{
+				"section_id":"33",
+				"title":"33 :Application of section 360 of the Code of Criminal Procedure, 1973 and of the Probation of Offenders Act, 1958.",
+				"content":"<p></p>"
+				},
+				
+				{
+				"section_id":"34",
+				"title":"34 :Security for abstaining from commission of offence.",
+				"content":"(1) Whenever any person is convicted of an offence punishable under any provision of Chapter VI and the Court convicting him is of opinion that it is necessary to require such person to execute a bond for abstaining from the commission of any offence under this Act, the Court may, at the time of passing sentence on such person, order him to execute a bond for a sum proportionate to his means, with or without sureties, for abstaining from commission of any offence under Chapter IV during such period not exceeding three years as it thinks fit to fix.<br></br>\t\t(2) The bond shall be in such form as may be prescribed by the Central Government and the provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall in so far as they are applicable, apply to all matters connected with such bond as if it were a bond to keep the peace ordered to be executed under section 106 of that Code.<br></br>\t\t(3) If the conviction is set aside on appeal or otherwise, the bond so executed shall become void.<br></br>\t\t(4) An order under this section may also be made by an appellate Court or by the High Court or Sessions Judge when exercising the powers of revision.<p></p>"
+				},
+				
+				{
+				"section_id":"35",
+				"title":"35 :Presumption of culpable mental state.",
+				"content":"(1) In any prosecution for an offence under this Act which requires a culpable mental state of the accused, the Court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.<br></br>\t\tExplanation.'In this section 'culpable mental state' includes intention, motive, knowledge of a fact and belief in, or reason to believe, a fact.<br></br>\t\t\t(2) For the purpose of this section, a fact is said to be proved only when the Court believes it to exist beyond a reasonable doubt and not merely when its existence is established by a preponderance of probability<p></p>"
+				},
+				
+				{
+				"section_id":"36",
+				"title":"36 :Constitution of Special Courts.",
+				"content":"(1) The Government may, for the purpose of providing speedy trial of the offences under this Act, by notification in the Official Gazette, constitute as many Special Courts as may be necessary for such area or areas as may be specified in the notification.<br></br>\t\t(2) A Special Court shall consist of a single Judge who shall be appointed by the Government with the concurrence of the Chief Justice of the High Court.<br></br>\tExplanation.'In this sub-section, 'High Court' means the High Court of the State in which the Sessions Judge or the Additional Sessions Judge of a Special Court was working immediately before his appointment as such Judge.<p></p>\t\t(3) A person shall not be qualified for appointment as a Judge of a Special Court unless he is, immediately before such appointment, a Sessions Judge or an Additional Sessions Judge<p></p>"
+				},
+				
+				{
+				"section_id":"37",
+				"title":"37 :Offences to be cognizable and non-bailable.",
+				"content":"(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),'<br></br>\t\t(a) every offence punishable under this Act shall be cognizable;<br></br>\t\t(b) no person accused of an offence punishable for offences under section 19 or section 24 or section 27-A and also for offences involving commercial quantity shall be released on bail or on his own bond unless'<br></br>\t\t\t(i) the Public Prosecutor has been given an opportunity to oppose the application for such release, and<br></br>\t\t\t(ii) where the Public Prosecutor opposes the application, the Court is satisfied that there are reasonable grounds for believing that he is not guilty of such offence and that he is not likely to commit any offence while on bail.<br></br>\t\t(2) The limitations on granting of bail specified in clause (b) of sub-section (1) are in addition to the limitations under the Code of Criminal Procedure, 1973 (2 of 1974) or any other law for the time being in force, on granting of bail<p></p>"
+				},
+				
+				{
+				"section_id":"38",
+				"title":"38 :Offences by companies.",
+				"content":"(1) Where an offence under Chapter IV has been committed by a company, every person, who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:<br></br>\tProvided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.<br></br>\t\t(2) Notwithstanding anything contained in sub-section (1), where any offence under Chapter IV has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.<br></br>\tExplanation.'For the purposes of this section'<br></br>\t(a) 'company' means any body corporate and includes a firm or other association of individuals; and <br></br>\t(b) 'director', in relation to a firm, means a partner in the firm<p></p>"
+				},
+				
+				{
+				"section_id":"39",
+				"title":"39 :Power of Court to release certain offenders on probation.",
+				"content":"(1) When any addict is found guilty of an offence punishable under section 27 or for offences relating to small quantity of any narcotic drug or psychotropic substance and if the Court by which he is found guilty is of the opinion regard being had to the age, character, antecedents or physical or mental condition of the offender, that it is expedient so to do, then, notwithstanding anything contained in this Act or any other law for the time being in force, the Court may, instead of sentencing him at once to any imprisonment, with his consent, direct that he be released for undergoing medical treatment for de-toxification or de-addiction from a hospital or an institution maintained or recognised by Government and on his entering into a bond in the form prescribed by the Central Government with or without sureties, to appear and furnish before the Court within a period not exceeding one year, a report regarding the result of his medical treatment and; in the meantime, to abstain from the commission of any offence under Chapter IV.<br></br>\t\t(2) If it appears to the Court, having regard to the report regarding the result of the medical treatment furnished under sub-section (1), that it is expedient so to do, the Court may direct the release of the offender after due admonition on his entering into a bond in the form prescribed by the Central Government, with or without sureties, for abstaining from the Commission of any offence under Chapter IV during such period not exceeding three years as the Court may deem fit to specify or on his failure so to abstain, to appear before the Court and receive sentence when called upon during such period.<p></p>"
+				},
+				
+				{
+				"section_id":"40",
+				"title":"40 :Power of Court to publish names, place of business, etc., of certain offenders.",
+				"content":"(1) Where any person is convicted of any of the offences punishable under section 15 to section 25 (both inclusive), section 28, section 29 or section 30, it shall be competent for the Court convicting the person to cause the name and place of business or residence of such person, nature of the contravention, the fact that the person has been so convicted and such other particulars as the Court may consider to be appropriate in the circumstances of the case, to be published at the expense of such person in such newspapers or in such manner as the Court may direct.<br></br>\t\t(2) No publication under sub-section (1) shall be made until the period for preferring an appeal against the orders of the Court has expired without any appeal having been preferred, or such appeal, having been preferred, has been disposed of.<br></br>\t\t(3) The expenses of any publication under sub-section (1) shall be recoverable from the convicted person as if it were a fine imposed by the Court<p></p>"
+				}
+				
+			
+		],
+			
+			
+		"5":[
+				
+				{
+				"section_id":"41",
+				"title":"41 :Power to issue warrant and authorisation.",
+				"content":"(1) A Metropolitan Magistrate or a Magistrate of the first class or any Magistrate of the second class specially empowered by the State Government in this behalf, may issue a warrant for the arrest of any person whom he has reason to believe to have committed any offence punishable under this Act, or for the search, whether by day or by night, of any building, conveyance or place in which he has reason to believe any narcotic drug or psychotropic substance or controlled substance in respect of which an offence punishable under this Act has been committed or any document or other article which may furnish evidence of the commission of such offence or any illegally acquired property or any document or other article which may furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under Chapter V-A of this Act is kept or concealed.<br></br>\t\t(2) Any such officer of gazetted rank of the departments of central excise, narcotics, customs, revenue intelligence or any other department of the Central Government including the para-military forces or the armed forces as is empowered in this behalf by general or special order by the Central Government, or any such officer of the revenue, drugs control, excise, police or any other department of a State Government as is empowered in this behalf by general or special order of the State Government if he has reason to believe from personal knowledge or information given by any person and taken in writing that any person has committed an offence punishable under this Act or that any narcotic drug or psychotropic substance or controlled substance in respect of which any offence under this Act has been committed or any document or other article which may furnish evidence of the commission of such offence or any illegally acquired property or any document or other article which may furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under Chapter V-A of this Act is kept or concealed in any building, conveyance or place, may authorise any officer subordinate to him but superior in rank to a peon, sepoy or a constable to arrest such a person or search a building, conveyance or place whether by day or by night or himself arrest such a person or search a building, conveyance or place.<br></br>\t(3) The officer to whom a warrant under sub-section (1) is addressed and the officer who authorised the arrest or search or the officer who is so authorised under sub-section (2) shall have all the powers of an officer acting under section 42.<p></p>"
+				},
+				
+				{
+				"section_id":"42",
+				"title":"42 :Power of entry, search, seizure and arrest without warrant or authorisation.",
+				"content":"(1) Any such officer (being an officer superior in rank to a peon, sepoy or constable) of the departments of central excise, narcotics, customs, revenue intelligence or any other department of the Central Government including para-military forces or armed forces as is empowered in this behalf by general or special order by the Central Government, or any such officer (being an officer superior in rank to a peon, sepoy or constable) of the revenue, drugs control, excise, police or any other department of a State Government as is empowered in this behalf by general or special order of the State Government, if he has reason to believe from personal knowledge or information given by any person and taken down in writing that any narcotic drug, or psychotropic substance, or controlled substance in respect of which an offence punishable under this Act has been committed or any document or other article which may furnish evidence of the commission of such offence or any illegally acquired property or any document or other article which may furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under Chapter V-A of this Act is kept or concealed in any building, conveyance or enclosed place, may between sunrise and sunset,'<br></br>\t\t(a) enter into and search any such building, conveyance or place;<br></br>\t\t(b) in case of resistance, break open any door and remove any obstacle to such entry;<br></br>\t\t(c) seize such drug or substance and all materials used in the manufacture thereof and any other article and any animal or conveyance which he has reason to believe to be liable to confiscation under this Act and any document or other article which he has reason to believe may furnish evidence of the commission of any offence punishable under this Act or furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under Chapter V-A of this Act; and<br></br>\t\t(d) detain and search, and if he thinks proper, arrest any person whom he has reason to believe to have committed any offence punishable under this Act:<br></br>\tProvided that if such officer has reason to believe that a search warrant or authorisation cannot be obtained without affording opportunity for the concealment of evidence or facility for the escape of an offender, he may enter and search such building, conveyance or enclosed place at any time between sunset and sunrise after recording the grounds of his belief.<br></br>\t(2) Where an officer takes down any information in writing under sub-section (1) or records grounds for his belief under the proviso thereto, he shall within seventy-two hours send a copy thereof to his immediate official superior<p></p>"
+				},
+				
+				{
+				"section_id":"43",
+				"title":"43 :Power of seizure and arrest in public place.",
+				"content":"Any officer of any of the departments mentioned in section 42 may'<br></br>\t(a) seize in any public place or in transit, any narcotic drug or psychotropic substance or controlled substance in respect of which he has reason to believe an offence punishable under this Act has been committed, and, alongwith such drug or substance, any animal or conveyance or article liable to confiscation under this Act, any document or other article which he has reason to believe may furnish evidence of the commission of an offence punishable under this Act or any document or other article which may furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under Chapter V-A of this Act;<br></br>\t(b) detain and search any person whom he has reason to believe to have committed an offence punishable under this Act, and if such person has any narcotic drug or psychotropic substance or controlled substance in his possession and such possession appears to him to be unlawful, arrest him and any other person in his company.<p></p>\tExplanation.'For the purposes of this section, the expression 'public place' includes any public conveyance, hotel, shop, or other place intended for use by, or accessible to, the public<p></p>"
+				},
+				
+				{
+				"section_id":"44",
+				"title":"44 :Power of entry, search seizure and arrest in offences relating to coca plant, opium poppy and cannabis plant.",
+				"content":"The provisions of sections 41, 42, and 43, shall so far as may be, apply in relation to the offences punishable under Chapter IV and relating to coca plant, the opium poppy or cannabis plant and for this purpose references in those sections to narcotic drugs, or psychotropic substance or controlled substance, shall be construed as including references to coca plant, the opium poppy and cannabis plant.<p></p>"
+				},
+				
+				{
+				"section_id":"45",
+				"title":"45 :Procedure where seizure of goods liable to confiscation not practicable.",
+				"content":"Where it is not practicable to size any goods (including standing crop) which are liable to confiscation under this Act, any officer duly authorised under section 42 may serve on the owner or person in possession of the goods, an order that he shall not remove, part with or otherwise deal with the goods except with the previous permission of such officer.<p></p>"
+				},
+				
+				{
+				"section_id":"46",
+				"title":"46 :Duty of land holder to give information of illegal cultivation.",
+				"content":"Every holder of land shall give immediate information to any officer of the Police or of any of the departments mentioned in section 42 of all the opium poppy, cannabis plant or coca plant which may be illegally cultivated within his land and every such holder of land who knowingly neglects to give such information, shall be liable to punishment.<p></p>"
+				},
+				
+				{
+				"section_id":"47",
+				"title":"47 :Duty of certain officers to give information of illegal cultivation.",
+				"content":"Every officer of the Government and every panch, sarpanch and other village officer of whatever description shall give immediate information to any officer of the Police or of any of the departments mentioned in section 42 when it may come to his knowledge that any land has been illegally cultivated with the opium poppy, cannabis plant or coca plant, and every such officer of the Government, panch, sarpanch and other village officer who neglects to give such information shall be liable to punishment<p></p>"
+				},
+				
+				{
+				"section_id":"48",
+				"title":"48 :Power of attachment of crop illegally cultivated.",
+				"content":"Any Metropolitan Magistrate, Judicial Magistrate of the first class or any Magistrate specially empowered in this behalf by the State Government or any officer of a gazetted rank empowered under section 42 may order attachment of any opium poppy, cannabis plant or coca plant which he has reason to believe to have been illegally cultivated and while doing so may pass such order (including an order to destroy the crop) as he thinks fit.<p></p>"
+				},
+				
+				{
+				"section_id":"49",
+				"title":"49 :Power to stop and search conveyance.",
+				"content":"Any officer authorised under section 42, may, if he has reason to suspect that any animal or conveyance is, or is about to be, used for the transport of any narcotic drug or psychotropic substance, or controlled substance, in respect of which he suspects that any provision of this Act has been, or is being, or is about to be, contravened at any time, stop such animal or conveyance, or, in the case of an aircraft, compel it to land and'<br></br>\t(a) rummage and search the conveyance or part thereof; <br></br>\t(b) examine and search any goods on the animal or in the conveyance;<br></br>\t(c) if it becomes necessary to stop the animal or the conveyance, he may use all lawful means for stopping it, and where such means fail, the animal or the conveyance may be fired upon.<p></p>"
+				},
+				
+				{
+				"section_id":"50",
+				"title":"50 :Conditions under which search of persons shall be conducted.",
+				"content":"(1) When any officer duly authorised under section 42 is about to search any person under the provisions of section 41, section 42 or section 43, he shall if such person so requires, take such person without unnecessary delay to the nearest Gazetted Officer of any of the departments mentioned in section 42 or to the nearest Magistrate.<br></br>\t\t\t(2) If such requisition is made, the officer may detain the person until he can bring him before the Gazetted Officer or the Magistrate referred to in sub-section (1).<br></br>\t\t\t(3) The Gazetted officer or the Magistrate before whom any such person is brought shall, if he sees no reasonable ground for search, forthwith discharge the person but otherwise shall direct that search be made.<br></br>\t\t\t(4) No female shall be searched by anyone excepting a female.<br></br>\t\t\t(5) When an officer duly authorised under section 42 has reason to believe that it is not possible to take the person to be searched to the nearest Gazetted Officer or Magistrate without the possibility of the person to be searched parting with possession of any narcotic drug or psychotropic substance, or controlled substance or article or document, he may, instead of taking such person to the nearest Gazetted Officer or Magistrate, proceed to search the person as provided under section 100 of the Code of Criminal Procedure, 1973 (2 of 1974).<br></br>\t\t\t(6) After a search is conducted under sub-section (5), the officer shall record the reasons for such belief which necessitated such search and within a seventy-two hours send a copy thereof to his immediate official superior<p></p>"
+				},
+				
+				{
+				"section_id":"51",
+				"title":"51 :Provisions of the Code of Criminal Procedure, 1973 to apply to warrants, arrest, searches and seizures.",
+				"content":"The provisions of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply, in so far as they are not inconsistent with the provisions of this Act, to all warrants issued and arrests, searches and seizures made under this Act.<p></p>"
+				},
+				
+				{
+				"section_id":"52",
+				"title":"52 :Disposal of persons arrested and articles seized.",
+				"content":"(1) Any officer arresting a person under section 41, section 42, section 43 or section 44 shall, as soon as may be, inform him of the grounds of such arrest.<br></br>\t\t\t(2) Every person arrested and article seized under warrant issued under sub-section (1) of section 41 shall be forwarded without unnecessary delay to the Magistrate by whom the warrant was issued.<br></br>\t\t\t(3) Every person arrested and article seized under sub-section (2) of section 41, section 42, section 43 or section 44 shall be forwarded without unnecessary delay to'<br></br>\t\t\t(a) the officer-in-charge of the nearest police station, or <br></br>\t\t\t(b) the officer empowered under section 53.<br></br>\t\t\t(4) The authority or officer to whom any person or article is forwarded under sub-section (2) or sub-section (3) shall, with all convenient despatch, take such measures as may be necessary for the disposal according to law of such person or article<p></p>"
+				},
+				
+				{
+				"section_id":"53",
+				"title":"53 :Power to invest officers of certain departments with powers of an officer-in-charge of a police station.",
+				"content":"(1) The Central Government, after consultation with the State Government may by notification published in the Official Gazette, invest any officer of the department of central excise, narcotics, customs, revenue intelligence or any other department of the Central Government including para-military forces or armed forces or any class of such officers with the powers of an officer-in-charge of a police station for the investigation of the offences under this Act.<br></br>\t\t\t(2) The State Government may, by notification published in the official Gazette, invest any officer of the department of drugs control, revenue or excise or any other department or any class of such officers with the powers of an officer-in-charge of a police station for the investigation of offences under this Act<p></p>"
+				},
+				
+				{
+				"section_id":"54",
+				"title":"54 :Presumption from possession of illicit articles.",
+				"content":"In trials under this Act, it may be presumed, unless and until the contrary is proved, that the accused has committed an offence under this Act in respect of'<br></br>\t(a) any narcotic drug or psychotropic substance or controlled substance;<br></br>\t(b) any opium poppy, cannabis plant or coca plant growing on any land which he has cultivated; <br></br>\t(c) any apparatus specially designed or any group of utensils specially adopted for the manufacture of any narcotic drug or psychotropic substance or controlled substance; or<br></br>\t(d) any materials which have undergone any process towards the manufacture of a narcotic drug or psychotropic substance or controlled substance, or any residue left of the materials from which any narcotic drug or psychotropic substance or controlled substance has been manufactured,<br></br>for the possession of which he fails to account satisfactorily<p></p>"
+				},
+				
+				{
+				"section_id":"55",
+				"title":"55 :Police to take charge of articles seized and delivered.",
+				"content":"An officer-in-charge of a police station shall take charge of and keep in safe custody, pending the orders of the Magistrate, all articles seized under this Act within the local area of that police station and which may be delivered to him, and shall allow any officer who may accompany such articles to the police station or who may be deputed for the purpose, to affix his seal to such articles or to take samples of and from them and all samples so taken shall also be sealed with a seal of the officer-in-charge of the police station<p></p>"
+				},
+				
+				{
+				"section_id":"56",
+				"title":"56 :Obligation of officers to assist each other.",
+				"content":"All officers of the several departments mentioned in section 42 shall, upon notice given or request made, be legally bound to assist each other in carrying out the provisions of this Act<p></p>"
+				},
+				
+				{
+				"section_id":"57",
+				"title":"57 :Report of arrest and seizure.",
+				"content":"Whenever any person makes any arrest or seizure under this Act, he shall, within forty-eight hours next after such arrest or seizure, make a full report of all the particulars of such arrest of seizure to his immediate official superior<p></p>"
+				},
+				
+				{
+				"section_id":"58",
+				"title":"58 :Punishment for vexatious entry, search, seizure or arrest.",
+				"content":"(1) Any person empowered under section 42 or section 43 or section 44 who'<br></br>\t\t(a) without reasonable ground of suspicion enters or searches, or causes to be entered or searched, any building, conveyance or place;<br></br>\t\t(b) vexatiously and unnecessarily seizes the property of any person on the pretence of seizing or searching for any narcotic drug or psychotropic substance or other article liable to be confiscated under this Act, or of seizing any document or other article liable to be seized under section 42, section 43 or section 44; or<br></br>\t\t(c) vexatiously and unnecessarily detains, searches or arrests any person,<br></br>shall be punishable with imprisonment for a term which may extend to six months or with fine which may extend to one thousand rupees, or with both.<p></p>\t(2) Any person wilfully and maliciously giving false information and so causing an arrest or a search being made under this Act shall be punishable with imprisonment for a term which may extend to two years or with fine or with both<p></p>"
+				},
+				
+				{
+				"section_id":"59",
+				"title":"59 :Failure of officer in duty or his connivance at the contravention of the provisions of this Act.",
+				"content":"(1) Any officer, on whom any duty has been imposed by or under this Act and who ceases or refuses to perform or withdraws himself from the duties of his office shall, unless he has obtained the express written permission of his official superior or has other lawful excuse for so doing, be punishable with imprisonment for term which may extend to one year or with fine or with both.<br></br>\t\t\t(2) Any officer on whom any duty has been imposed by or under this Act or any person who has been given the custody of'<br></br>\t\t(a) any addict; or<br></br>\t\t(b) any other person who has been charged with an offence under this Act,<br></br>and who wilfully aids in, or connives at, the contravention of any provision of this Act or any rule or order made thereunder, shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years, and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees.<br></br>\tExplanation.'For the purposes of this sub-section, the expression 'officer' includes any person employed in a hospital or institution maintained or recognised by the Government or a local authority under section 64-A for providing de-addiction treatment.<br></br>\t\t(3) No Court shall take cognizance of any offence under sub-section (1) or sub-section (2) except on a complaint in writing made with the previous sanction of the Central Government, or as the case may be, the State Government<p></p>"
+				},
+				
+				{
+				"section_id":"60",
+				"title":"60 :Liability of illicit drugs, substances, plants, articles and conveyances to confiscation.",
+				"content":"(1) Whenever any offence punishable under this Act has been committed, the narcotic drug, psychotropic substance, controlled substance, opium poppy, coca plant, cannabis plant, materials, apparatus and utensils in respect of which or by means of which such offence has been committed, shall be liable to confiscation<p></p>(2) Any narcotic drug or psychotropic substance lawfully produced, imported inter-State, exported inter-State, imported into India, transported, manufactured, possessed, used, purchased or sold alongwith, or in addition to, any narcotic drug or psychotropic substance or controlled substance which is liable to confiscation under sub-section (1) and there receptacles, packages and coverings in which any narcotic drug or psychotropic substance, or controlled substance materials apparatus or utensils liable to confiscation under sub-section (1) is found, and the other contents, if any, of such receptacles or packages shall likewise be liable to confiscation.<br></br>\t\t\t(3) Any animal or conveyance used in carrying any narcotic drug or psychotropic substance or controlled substance, or any article liable to confiscation under sub-section (1) or sub-section (2) shall be liable to confiscations, unless the owner of the animal or conveyance proves that it was so used without the knowledge or connivance of the owner himself, his agent, if any and the person-in-charge of the animal or conveyance and that each of them had taken all reasonable precautions against such use<p></p>"
+				},
+				
+				{
+				"section_id":"61",
+				"title":"61 Confiscation of goods used for concealing illicit drugs or substances.",
+				"content":"Any goods used for concealing any narcotic drug, psychotropic substance or controlled substance which is liable to confiscation under this Act shall also be liable to confiscation.<p></p>\tExplanation.'In this section 'goods' does not include conveyance as a means of transport<p></p>"
+				},
+				
+				{
+				"section_id":"62",
+				"title":"62 :Confiscation of sale proceeds of illicit drugs or substances.",
+				"content":"Where any narcotic drug, psychotropic substance or controlled substance is sold by a person having knowledge or reason to believe that the drug or substance is liable to confiscation under this Act, the sale proceeds thereof shall also be liable to confiscation<p></p>"
+				},
+				
+				{
+				"section_id":"63",
+				"title":"63 :Procedure in making confiscations.",
+				"content":"(1) In the trial of offences under this Act, whether the accused is convicted or acquitted or discharged, the Court shall decide whether any article or thing seized under this Act is liable to confiscation under section 60 or section 61 or section 62 and, if it decides that the article is so liable, it may order confiscation accordingly.<br></br>\t\t(2) Where any article or thing seized under this Act appears to be liable to confiscation under section 60 or section 61 or section 62, but the person who committed the offence in connection therewith is not known or cannot be found, the Court may inquire into and decide such liability and may order confiscation accordingly.<br></br>\tProvided that no order of confiscation of an article or thing shall be made until the expiry of one month from the date of seizure, or without hearing any person who may claim any right thereto and the evidence, if any, which he produces in respect of his claim:<br></br>\tProvided further that if any such article or thing other than a narcotic drug, psychotropic substance or controlled substance the opium poppy, coca plant or cannabis plant is liable to speedy and natural decay, or if the Court is of opinion that it sale would be for the benefit of its owner, it may at any time direct it to be sold; and the provisions of this sub-section shall as nearly as may be practicable, apply to the net proceeds of the sale<p></p>"
+				},
+				
+				{
+				"section_id":"64",
+				"title":"64 :Power to tender immunity from prosecution.",
+				"content":"(1) The Central Government or the State Government may, if it is of opinion (the reasons for such opinion being recorded in writing) that with a view to obtaining the evidence of any person appearing to have been directly or indirectly concerned in or privy to the contravention of any of the provisions of this Act or of any rule or order made thereunder it is necessary or expedient so to do, tender to such person immunity from prosecution for any offence under this Act or under the Indian Penal Code (45 of 1860) or under any other Central Act or State Act, as the case may be, for the time being in force, on condition of his making a full and true disclosure of the whole circumstances relating to such contravention.<br></br>\t\t(2) A tender of immunity made to, and accepted by, the person concerned, shall, to the extent to which the immunity extends, render him immune from prosecution for any offence in respect of which the tender was made.<br></br>\t\t(3) If it appears to the Central Government or, as the case may be, the State Government, that any person to whom immunity has been tendered under this section has not complied with the conditions on which the tender was made or is wilfully concealing anything or is giving false evidence, the Central Government or, as the case may be, the State Government, may record a finding to that effect and thereupon the immunity shall be deemed to have been withdrawn and such person may be tried for the offence in respect of which the tender of immunity was made or for any other offence of which he appears to have been guilty in connection with the same manner<p></p>"
+				},
+				
+				{
+				"section_id":"65",
+				"title":"65 :Power to make rules regulating disposal of confiscated articles and rewards.",
+				"content":"[Omitted by Narcotic Drugs and Psychotropic Substances (Amendment) Act, 1988 (2 of 1989), section 18 (w.e.f. 29-5-1989)<p></p>"
+				},
+				
+				{
+				"section_id":"66",
+				"title":"66 :Presumption as to documents in certain cases.",
+				"content":"Where any document'<br></br>\t\t(i) is produced or furnished by any person or has been seized from the custody or control or any person, in either case, under this Act or under any other law, or <br></br>\t\t(ii) has been received from any place outside India (duly authenticated by such authority or person and in such manner as may be prescribed by the Central Government) in the course of investigation of any offence under this Act alleged to have been committed by a person,<p></p>and such document is tendered in any prosecution under this Act in evidence against him, or against him and any other person who is tried jointly with him, the Court shall'<br></br>\t(a) presume, unless the contrary is proved, that the signature and every other part of such document which purports to be in the handwriting of any particular person or which the Court may reasonably assume to have been signed by, or to be in the handwriting of, any particular person, is in that person's handwriting; and in the case of a document executed or attested, that it was executed or attested by the person by whom it purports to have been so executed or attested;<br></br>\t(b) admit the document in evidence, notwithstanding that it is not duly stamped, if such document is otherwise admissible in evidence;<br></br>\t(c) in a case falling under clause (i), also presume, unless the contrary is proved, the truth of the contents of such document<p></p>"
+				},
+				
+				{
+				"section_id":"67",
+				"title":"67 :Power to call for information, etc.",
+				"content":"Any officer referred to in section 42 who is authorised in this behalf by the Central Government or a State Government may, during the course of any enquiry in connection with the contravention of any provision of this Act,'<br></br>\t(a) call for information from any person for the purpose of satisfying himself whether there has been any contravention of the provisions of this Act or any rule or order made thereunder;<br></br>\t(b) require any person to produce or deliver any document or thing useful or relevant to the enquiry;<br></br>\t(c) examine any person acquainted with the facts and circumstances of the case<p></p>"
+				},
+				
+				{
+				"section_id":"68",
+				"title":"68 :Information as to commission of offences.",
+				"content":"No officer acting in exercise of powers vested in him under any provision of this Act or any rule or order made thereunder shall be compelled to say whence he got any information as to the commission of any offence<p></p>"
+				}
+		
+		],
+		
+		"6":[
+		
+				{
+				"section_id":"69",
+				"title":"69 :Protection of action taken in good faith.",
+				"content":"No suit, prosecution or other legal proceeding shall lie against the Central Government or a State Government or any officer of the Central Government or of the State Government or any other person exercising any powers or discharging any functions or performing any duties under this Act, for anything in good faith done or intended to be done under this Act or any rule or order made thereunder<p></p>"
+				},
+				
+				{
+				"section_id":"70",
+				"title":"70 :Central Government and State Government to have regard to international conventions while making rules.",
+				"content":"Wherever under this Act the Central Government or the State Government has been empowered to make rules, the Central Government or the State Government, as the case may be, subject to other provisions of this Act, may while making the rules have regard to the provisions of the Single Convention on Narcotic Drugs, 1961, the Protocol of 1972 amending the said Convention and of the Convention on Psychotropic Substances, 1971 to which India is a party and to the provisions of any other international convention relating to narcotic drugs or psychotropic substances to which India may become a party<p></p>"
+				},
+				
+				{
+				"section_id":"71",
+				"title":"71 :Power of Government to establish centres for identification, treatment, etc., of addicts and for supply of narcotic drugs and psychotropic substances.",
+				"content":"(1) The Government may, in its discretion, establish as many centres as it thinks fit for identification, treatment, education, after-care, rehabilitation, social re-integration of addicts and for supply, subject to such conditions and in such manner as may be prescribed, by the concerned Government of any narcotic drugs and psychotropic substances to the addicts registered with the Government and to others where such supply is a medical necessity.<br></br>\t\t(2) The Government may make rules consistent with this Act providing for the establishment, appointment, maintenance, management and superintendence of, and for supply of narcotic drugs and psychotropic substances from, the centres referred to in sub-section (1) and for the appointment, training, powers, duties and persons employed in such centres<p></p>"
+				},
+				
+				{
+				"section_id":"72",
+				"title":"72 :Recovery of sums due to Government.",
+				"content":"(1) In respect of any licence fee or other sum of any kind payable to the Central Government or to the State Government under any of the provisions of this Act or of any rule or order made thereunder, the officer of the Central Government or the State Government, as the case may be, who is empowered to require the payment of such sum, may deduct the amount of such sum from any money owing to the person from whom such sum may be recoverable or due or may recover such amount or sum by attachment and sale of the goods belonging to such persons and if the amount of the same is not so recovered, the same may be recovered from the person or from his surety (if any) as if it were an arrear of land revenue.<br></br>\t\t(2) When any person, in compliance with any rule made under this Act, gives a bond (other than a bond under section 34 and section 39) for the performance of any act, or for his abstention from any act, such performance or abstention shall be deemed to be a public duty within the meaning of section 74 of the Indian Contract Act, 1872 (9 of 1872); and upon breach of the conditions of such bond by him, the whole sum named therein as the amount to be paid in case of such breach may be recovered from him or from his surety (if any) as if it were an arrear of land revenue<p></p>"
+				},
+				
+				{
+				"section_id":"73",
+				"title":"73 :Bar of jurisdiction.",
+				"content":"No civil Court shall entertain any suit or proceeding against any decision made or order passed by any officer or authority under this Act or under any rule made thereunder on any of the following matters, namely:'<br></br>\t(a) withholding, refusal or cancellation of any licence for the cultivation of the opium poppy; <br></br>\t(b) weighment, examination and classification according to the quality and consistence of opium and any deductions from, or addition to, the standard price made in accordance with such examination;<br></br>\t(c) confiscation of opium found to be adulterated with any foreign substance<p></p>"
+				},
+				
+				{
+				"section_id":"74",
+				"title":"74 :Transitional provisions.",
+				"content":"Every officer or other employee of the Government exercising or performing, immediately before the commencement of this Act, any powers or duties with respect to any matters provided for in this Act, shall, on such commencement, be deemed to have been appointed under the relevant provisions of this Act to the same post and with the same designation as he was holding immediately before such commencement<p></p>"
+				},
+				
+				{
+				"section_id":"75",
+				"title":"75 :Power to delegate.",
+				"content":"(1) The Central Government may, by notification in the Official Gazette, delegate subject to such conditions and limitations as may be specified in the notification, such of its powers and functions under this Act (except the powers to make rules) as it may deem necessary or expedient, to the Board or any other authority or the Narcotics Commissioner.<br></br>\t\t(2) The State Government may, by notification in the Official Gazette, delegate, subject to such conditions and limitations as may be specified in the notification, such of its powers and functions under this Act (except the power to make rules) as it may deem necessary or expedient, to any authority or officer of that Government<p></p>"
+				},
+				
+				{
+				"section_id":"76",
+				"title":"76 :Power of Central Government to make rules.",
+				"content":"(1) Subject to the other provisions of this Act, the Central Government may, by notification in the Official Gazette, make rulesfor carrying out the purposes of this Act.<br></br>\t\t(2) Without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:'<br></br>\t\t(a) the method by which percentages in the case of liquid preparations shall be calculated for the purposes of clauses (v), (vi), (xiv) and (xv) of section 2;<br></br>\t\t(b) the form of bond to keep the peace to be executed under section 34;<br></br>\t\t(c) the form of bond to be executed for release of an addict convict for medical treatment under sub-section (1) of section 39 and the bond to be executed by such convict before his release after due admonition under sub-section (2) of that section;<br></br>\t\t(ca) the manner in which 'controlled delivery' under section 50-A is to be undertaken;<br></br>\t\t(d) the authority or the person by whom and the manner in which a document received from any place outside India shall be authenticated under clause (ii) of section 66;<br></br>\t\t(da) the manner in which and the conditions subject to which properties shall be managed by the Administrator under sub-section (2) of section 68-G;<br></br>\t\t(db) the terms and conditions of service of the Chairman and other members of the Appellate Tribunal under sub-section (3) of section 68-N;<br></br>\t\t(dc) the fees which shall be paid for the inspection of the records and registers of the Appellate Tribunal or for obtaining the certified copy of any part thereof under sub-section (6) of section 68-O;<br></br>\t\t(dd) the powers of a Civil Court that may be exercised by the competent authority and the Appellate Tribunal under clause (f) of section 68-R;<br></br>\t\t(de) the disposal of all articles or things confiscated under this Act;<br></br>\t\t(df) the drawing of samples and testing and analysis of such samples;<br></br>\t\t(dg) the rewards to be paid to the officers, informers and other persons;<br></br>\t\t(e) the conditions and the manner in which narcotic drugs and psychotropic substances may be supplied for medical necessity to the addicts registered with the Central Government and to others under sub-section (1) of section 71;<br></br>\t\t(f) the establishment, appointment, maintenance, management and superintendence of centres established by the Central Government under sub-section (1) of section 71 and appointment, training, powers and duties of persons employed in such centres;<br></br>\t\t(g) the term of office of, the manner of filling casual vacancies of and the allowances payable, to the Chairman and members of the Narcotic Drugs and Psychotropic Substances Consultative Committee and the conditions and restrictions subject to which a non-member may be appointed to a sub-committee under sub-section (5) of section 6;<br></br>\t\t(h) any other matter which is to be, or may be, prescribed<p></p>"
+				},
+				
+				{
+				"section_id":"77",
+				"title":"77 :Rules and notifications to be laid before Parliament",
+				"content":"Every rule made under this Act by the Central Government and every notification or order issued under clause (viia), clause (xi), clause (xxiiia) of section 2, section 3, section 7-A, section 9-A and clause (a) of section 27 shall be laid, as soon as may be, after it is made or issued before each House of Parliament while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or notification or both Houses agree that the rule or notification should not be made or issued, the rule or the notification shall thereafter have effect only in such modified form or be of no effect as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that tule or notification<p></p>\\"
+				},
+				
+				{
+				"section_id":"78",
+				"title":"78 :Power of State Government to make rules.",
+				"content":"(1) Subject to the other provisions of this Act the State Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.<br></br>\t\t(2) Without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:'<br></br>\t\t(a) the conditions and the manner in which narcotic drugs and psychotropic substances shall be supplied for medical necessity to the addicts registered with the State Government and other under sub-section (1) of section 71;<br></br>\t\t(b) the establishment, appointment, maintenance, management, superintendence of centres established under sub-section (1) of section 71 and appointment, training, powers and duties of persons employed in such centres;<br></br>\t\t(c) any other matter which is to be, or may be, prescribed.<br></br>\t\t(3) Every rule made by a State Government under this Act shall be laid, as soon as may be after it is made before the Legislature of that State<p></p>"
+				},
+				
+				{
+				"section_id":"79",
+				"title":"79 :Application of the Customs Act, 1962.",
+				"content":"All prohibitions and restrictions imposed by or under this Act on the import into India, the export from India and transhipment of narcotic drugs and psychotropic substances shall be deemed to be prohibitions and restrictions imposed by or under the Customs Act, 1962 (52 of 1962) and the provisions of that Act shall apply accordingly:<br></br>\tProvided that, where the doing of anything is an offence punishable under that Act and under this Act, nothing in that Act or in this section shall prevent the offender from being punished under this Act<p></p>"
+				},
+				
+				
+				{
+				"section_id":"80",
+				"title":"80 :Application of the Drugs and Cosmetics Act, 1940 not barred.",
+				"content":"The provisions of this Act or the rules made thereunder shall be in addition to, and not in derogation of the Drugs and Cosmetics Act, 1940 (23 of 1940) or the rules made thereunder<p></p>"
+				},
+				
+				{
+				"section_id":"81",
+				"title":"81 :Saving of State and special laws",
+				"content":"Nothing in this Act or in the rules made thereunder shall affect the validity of any Provincial Act or an Act of any State Legislature for the time being in force, or of any rule made thereunder which imposes any restriction or provides for a punishment not imposed by or provided for under this Act or imposes a restriction or provides for a punishment greater in degree than a corresponding restriction imposed by or a corresponding punishment provided for by or under this Act for the cultivation of cannabis plant or consumption of, or traffic in, any narcotic drug or psychotropic substance within India<p></p>"
+				},
+				
+				{
+				"section_id":"82",
+				"title":"82 :Repeal and savings.",
+				"content":"(1) The Opium Act, 1857 (13 of 1857), the Opium Act, 1878 (1 of 1878) and the Dangerous Drugs Act, 1930 (2 of 1930) are hereby repealed.<br></br>\t\t(2) Notwithstanding such repeal, anything done or any action taken or purported to have been done or taken under any one enactments repealed by sub-section (1) shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken under the corresponding provisions of this Act<p></p>"
+				},
+				
+				{
+				"section_id":"83",
+				"title":"83 :Power to remove difficulties",
+				"content":"(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty:<br></br>\tProvided that no such order shall be made after the expiry of a period of three years from the date on which this Act receives the assent of the President.<br></br>\t\t(2) Every order made under this section shall, as soon as may be after it is made, be laid before the houses of Parliament<p></p>"
+				}
+				
+		]
+		}
+			
+}
