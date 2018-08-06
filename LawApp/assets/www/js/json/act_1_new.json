@@ -1,0 +1,127 @@
+{
+    "chapter":
+    {
+        "1":
+        [
+            {
+                "heading": "Chapter I:",
+                "title": "PRELIMINARY",
+                "sectionstart": "1",
+                "sectionend": "2"
+            }
+        ],
+        "2":
+        [
+            {
+                "heading": "Chapter II:",
+                "title": "ACQUISITION, POSSESSION, MANUFACTURE, SALE, IMPORT, EXPORT AND TRANSPORT OF ARMS AND AMMUNITION",
+                "sectionstart": "3",
+                "sectionend": "12"
+            }
+        ],
+        "3":
+        [
+           {
+               "heading":"Chapter III",
+               "title":" PROVISIONS RELATING LICENCES",
+               "sectionstart":" 13 ",
+               "sectionend":" 18"
+           }
+		   ],
+		   "4":
+       [
+           {
+               "heading":"Chapter IV ",
+               "title":" POWERS AND PROCEDURE",
+               "sectionstart":" 19 ",
+               "sectionend":" 24B"		 
+           }
+       ],
+		  "5":
+      [
+           {
+               "heading":"Chapter V ",
+               "title":" OFFENCES AND PENALTIES",
+               "sectionstart":" 25 ",
+               "sectionend":" 33"
+           }
+		 ],
+		 "6":
+     [
+         {
+             "heading":"Chapter VI ",
+             "title":" MISCELLANEOUS",
+             "sectionstart":" 34 ",
+             "sectionend":" 46"
+         }
+		 ]	
+    },
+    "section":
+    {
+      "1":
+      [
+        {
+          "section_id": "1",
+          "title": "1: Short title extent and commencement",
+          "content": "(1) This Act may be called THE ARMS ACT 1959(2) It extends to the whole of India(3) It shall come into force on such date as the Central Government may by notification in the Official Gazette appoint"
+         },
+         {
+           "section_id":"2",
+           "title":"2: Definitions and interpretation",
+           "content":
+                    "(1) In this Act unless the context otherwise requires
+                        (a) acquisition with its grammatical variations and cognate expressions includes hiring borrowing or accepting
+                            as a gift;
+                        (b) ammunition means ammunition for any firearm and includes
+                            (i) rockets bombs grenades shells and other missiles\
+                            (ii) articles designed for torpedo service and submarine mining
+                            (iii) other articles containing or designed or adapted to contain explosive fulminating or fissionable 
+                            material or noxious liquid gas or other such thing whether capable of use with firearms or not
+                            (iv) charges for firearms and accessories for such charges
+                            (v) fuses and friction tubes
+                            (vi) parts of and machinery for manufacturing ammunition and
+                            (vii) such ingredients of ammunition as the Central Government may by notification in the Official Gazette
+                            specify in this behalf
+                         (c) arms means articles of any description designed or adapted as weapons for offences or defence and includes
+                         firearms sharp-edged and other deadly weapons and parts of and machinery for manufacturing arms but does not 
+                         include articles designed solely for domestic or agricultural uses such as a lathi or an ordinary walking stick
+                         and weapons incapable of being used otherwise than as toys or of being converted into serviceable weapons;
+                         (d) district magistrate in relation to any area for which a Commissioner of Police has been appointed means the
+                         Commissioner of Police thereof and includes any such Deputy Commissioner of Police exercising jurisdiction over
+                         the whole or any part of such area as may be specified by the State Government in this behalf in relation to 
+                         such area or part;
+                         (e) firearms means arms of any description designed or adapted to discharge a projectile or projectiles of any
+                         kind by the action of any explosive or other forms of energy and includes
+                            (i) artillery hand-grenades riot-pistols or weapons of any kind designed or adapted for the discharge of 
+                              any noxious liquid gas or other such things
+                            (ii) accessories for any such firearms designed or adapted to diminish the noise or flash caused by the 
+                            firing thereof
+                            (iii) parts of and machinery for manufacturing firearms and
+                            (iv) carriages platforms and appliances for mounting transporting and serving artillery
+                         (f) licensing authority means an officer or authority empowered to grant or renew licences under rules made 
+                         under the Act and includes the Government
+                            (ff) magistrate means an Executive Magistrate under the Code of Criminal Procedure 1973 (2 of 1974)
+                        (g) prescribed means prescribed by rules made under this Act
+                        (h) prohibited ammunition means any ammunition containing or designed or adapted to contain any noxious liquid
+                        gas or other such thing and includes rockets bombs grenades shells missiles articles designed for torpedo 
+                        service and submarine mining and such other articles as the Central Government may by notification in the 
+                        Official Gazette specify to be prohibited ammunition
+                        (i) prohibited arms means
+                            (i) firearms so designed or adapted that if pressure is applied to the trigger missiles continue to be 
+                              discharged until pressure is removed from the trigger or the magazine containing the missiles is empty or
+                            (ii) weapons of any description designed or adapted for the discharge of any noxious liquid gas or other 
+                            such thing and includes artillery anti-aircraft and anti-tank firearms and such other arms as the Central 
+                            Government may by notification in the Official Gazette specify to be prohibited arms
+                        (j)public servant has the same meaning as in section21 of the Indian Penal Code (45 of 1860)
+                        (k)transfer with its grammatical variations and cognate expressions includes letting on hire lending giving and 
+                           parting with possession.
+                            (1)For the purposes of this Act the length of the barrel of a firearm shall be measured from the muzzle to 
+                            the point at which the charge is exploded on firing.
+                            (2)Any reference in the Act to any law which is not in force in any area shall in relation to that area be 
+                            construed as a reference to the corresponding law if any in force in that area.
+                            (3)Any reference in this Act to any officer or authority shall in relation to any area in which there is no 
+                            officer or authority with the same designation be construed as a reference to such officer or authority as 
+                            may be specified by the Central Government by notification in the Official Gazette.
+         }		
+       ],
+     }
